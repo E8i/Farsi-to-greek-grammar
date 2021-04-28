@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Farsi to Greek Grammar</string>
+
+    <string name="text_view">بر روی فعل مورد نظر کلیک کنید</string>
+
+    <string name="button1">می خواهم</string>
+    <string name="button2">دارم</string>
+    <string name="button3">می خورم</string>
+    <string name="button4"> گرامر</string>
+    <string name="button5">راه می روم</string>
+    <string name="button6">می بینم</string>
+    <string name="button7">می شنوم</string>
+    <string name="button8">خنده می کنم</string>
+    <string name="button9"> خوابم</string>
+    <string name="button10">می روم</string>
+    <string name="button11">هستم</string>
+    <string name="button12">می گیرم</string>
+    <string name="button13">گریه می کنم</string>
+    <string name="button14">آمدم</string>
+    <string name="button15">می نوشم</string>
+    <string name="button16">می دوم</string>
+    <string name="button17">دیدم</string>
+    <string name="button18">رسیدم</string>
+    <string name="button19">دیکشنری</string>
+    <string name="button20">ادامه</string>
+    <string name="button22">اّلفبای یونانی</string>
+    <string name="button23">حروف صدا دار</string>
+
+
+</resources>
