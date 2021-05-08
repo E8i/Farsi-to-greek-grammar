@@ -1,9 +1,318 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity46">
+    android:layout_width="match_parent">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="48sp"
+        android:background="@drawable/activity_background"
+        tools:context=".MainActivity46">
+
+        <Button
+            android:id="@+id/button97"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/home_button"
+            android:text="خانه"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView585" />
+
+        <TextView
+            android:id="@+id/textView568"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="δίνω-dino-می دهم"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView569"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="δίνεις-dineis-می دهی"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView568" />
+
+        <TextView
+            android:id="@+id/textView570"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="δίνει-dinei-می دهد"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView569" />
+
+        <TextView
+            android:id="@+id/textView571"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="δίνουμε-dinoume-می دهیم"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView570" />
+
+        <TextView
+            android:id="@+id/textView572"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="δίνετε-dinete-می دهید"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView571" />
+
+        <TextView
+            android:id="@+id/textView573"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="δίνουν-dinoun-می دهند"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView572" />
+
+        <TextView
+            android:id="@+id/textView574"
+            android:layout_width="255dp"
+            android:layout_height="27dp"
+            android:layout_marginTop="20dp"
+            android:text="έδινα-edina-می دادم"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.511"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView573" />
+
+        <TextView
+            android:id="@+id/textView575"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="έδινες-edines-می دادی"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView574" />
+
+        <TextView
+            android:id="@+id/textView576"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="έδινε-edine-می داد"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView575" />
+
+        <TextView
+            android:id="@+id/textView577"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="δίναμε-diname-می دادیم"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView576" />
+
+        <TextView
+            android:id="@+id/textView578"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="δίνατε-dinate-می دادید"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView577" />
+
+        <TextView
+            android:id="@+id/textView579"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="έδιναν-edinan-می دادند"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView578" />
+
+        <TextView
+            android:id="@+id/textView580"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="θά δίνω-tha dino-خواهم داد"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView579" />
+
+        <TextView
+            android:id="@+id/textView581"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά δίνεις-tha dineis-خواهی داد"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView580" />
+
+        <TextView
+            android:id="@+id/textView582"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά δίνει-tha dinei-خواهد داد"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView581" />
+
+        <TextView
+            android:id="@+id/textView583"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="θά δίνουμε-tha dinoume-خواهیم داد"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView582" />
+
+        <TextView
+            android:id="@+id/textView584"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά δίνετε-tha dinete-خواهید داد"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView583" />
+
+        <TextView
+            android:id="@+id/textView585"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά δίνουν-tha dinoun-خواهند داد"
+            android:textAllCaps="false"
+            android:textColor="#030303"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView584" />
+
+        <Button
+            android:id="@+id/button96"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/continue_button_backround"
+            android:text="برگشت"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView585" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

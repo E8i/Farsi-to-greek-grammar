@@ -1,9 +1,298 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity40">
+    android:layout_width="match_parent">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="48sp"
+        android:background="@drawable/activity_background"
+        tools:context=".MainActivity40">
+
+        <TextView
+            android:id="@+id/textView471"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="θά γυρίζω-tha gurizo-بر می گردم"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView470" />
+
+        <TextView
+            android:id="@+id/textView443"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="γύριζα-gurizo-برگشتم"
+            android:textColor="#030303"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView460"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="γύριζες-gurizeis-برگشتی"
+            android:textColor="#030303"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView443" />
+
+        <TextView
+            android:id="@+id/textView461"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="γύριζε-gurizei-برگشت"
+            android:textColor="#030303"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView460" />
+
+        <TextView
+            android:id="@+id/textView462"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="γυρίζαμε-gurizame-برگشتیم"
+            android:textColor="#030303"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView461" />
+
+        <TextView
+            android:id="@+id/textView463"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="γυρίζατε-gurizate-برگشتید"
+            android:textColor="#030303"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView462" />
+
+        <TextView
+            android:id="@+id/textView464"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="γύριζαν-gurizan-برگشتند"
+            android:textColor="#030303"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView463" />
+
+        <TextView
+            android:id="@+id/textView465"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="έχω γυρίσει-echo gurisei-برگشته ام"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView464" />
+
+        <TextView
+            android:id="@+id/textView466"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="έχεις γυρίσει-echeis gurisei-برگشته ای"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView465" />
+
+        <TextView
+            android:id="@+id/textView467"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="έχει γυρίσει-echei gurisei-برگشته است"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView466" />
+
+        <TextView
+            android:id="@+id/textView468"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="έχουμε γυρίσει-echoume gurisei-برگشته ایم"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView467" />
+
+        <TextView
+            android:id="@+id/textView469"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="έχετε γυρίσει-echete gurisei-برگشته اید"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView468" />
+
+        <TextView
+            android:id="@+id/textView470"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="έχουν γυρίσει-echoun gurisei-برگشته اند"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView469" />
+
+        <TextView
+            android:id="@+id/textView472"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά γυρίζεις-tha gurizeis-بر میگردی"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView471" />
+
+        <TextView
+            android:id="@+id/textView473"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά γυρίζει-tha gurizei-برمی گردد"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView472" />
+
+        <TextView
+            android:id="@+id/textView474"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="θά γυρίζουμε-tha gurizoume-برمی گردیم"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView473" />
+
+        <TextView
+            android:id="@+id/textView475"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά γυρίζετε-tha gurizete-برمی گردید"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView474" />
+
+        <TextView
+            android:id="@+id/textView476"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά γυρίζουν-tha gurizoun-برمی گردند"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView475" />
+
+        <Button
+            android:id="@+id/button84"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/continue_button_backround"
+            android:text="برگشت"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView476" />
+
+        <Button
+            android:id="@+id/button85"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/home_button"
+            android:text="خانه"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView476" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

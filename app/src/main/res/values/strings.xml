@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Farsi to Greek Grammar</string>
 
+
     <string name="text_view">بر روی فعل مورد نظر کلیک کنید</string>
 
     <string name="button1">می خواهم</string>
@@ -25,6 +26,9 @@
     <string name="button20">ادامه</string>
     <string name="button22">اّلفبای یونانی</string>
     <string name="button23">حروف صدا دار</string>
+    <string name="button68">برگشت</string>
+    <string name="buttonface">فیسبوک</string>
+    <string name="instagramPage">اینستاگرام</string>
 
 
 </resources>

@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_height="match_parent"
+    android:background="@drawable/activity_background"
     android:layout_width="match_parent">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -12,6 +13,91 @@
         tools:context=".MainActivity22">
 
         <TextView
+            android:id="@+id/textView330"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Ω ω Ωμέγα - omega - صدای (اُ) را می دهد اُمِغا"
+            android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.575"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView329" />
+
+        <TextView
+            android:id="@+id/textView329"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Ψ ψ - Ψι - psi - صدای (پسی)  را می دهد پسی"
+            android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView328" />
+
+        <TextView
+            android:id="@+id/textView328"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Χ χ - Χι - ki-hi - صدای (خ) را می دهد خی"
+            android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView327" />
+
+        <TextView
+            android:id="@+id/textView327"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Φ φ - Φι - fi - صدای (ف) را می دهد فی"
+            android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView326" />
+
+        <TextView
+            android:id="@+id/textView326"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Υ υ - Ύψιλον - ipsilon - صدای (اِ) را می دهد اِیپسیلون"
+            android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView325" />
+
+        <TextView
+            android:id="@+id/textView324"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Σ σ - Σίγμα - sigma - صدای (س.ص) را می دهد سیغما"
+            android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView323" />
+
+        <TextView
             android:id="@+id/textView15"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -19,6 +105,7 @@
             android:textColor="#2848FC"
             android:textSize="36sp"
             android:textStyle="bold"
+            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -27,14 +114,15 @@
             android:id="@+id/textView17"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="20dp"
             android:text="Αα- Άλφα- Alpha صدای (اَ) را می دهد اَلفا"
+            android:textAlignment="center"
             android:textColor="#030303"
             android:textSize="30sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView15"
+            app:layout_constraintTop_toBottomOf="@+id/textView32"
             app:layout_goneMarginTop="20dp" />
 
         <TextView
@@ -46,6 +134,7 @@
             android:textColor="#030303"
             android:textSize="30sp"
             android:textStyle="bold"
+            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView17" />
@@ -59,6 +148,7 @@
             android:textColor="#030303"
             android:textSize="28sp"
             android:textStyle="bold"
+            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView5" />
@@ -73,6 +163,7 @@
             android:textColorHint="#090808"
             android:textSize="30sp"
             android:textStyle="bold"
+            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView16" />
@@ -86,6 +177,7 @@
             android:textColor="#100F0F"
             android:textSize="26sp"
             android:textStyle="bold"
+            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView18" />
@@ -99,6 +191,7 @@
             android:textColor="#000000"
             android:textSize="30sp"
             android:textStyle="bold"
+            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView25" />
@@ -107,10 +200,12 @@
             android:id="@+id/textView33"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:text="TextView"
-            android:textSize="24sp"
+            android:layout_marginTop="16dp"
+            android:text="Θ - θ - Θήτα thita صدای (ث)را می دهد ثیتا"
+            android:textColor="#000000"
+            android:textSize="30sp"
             android:textStyle="bold"
+            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView41" />
@@ -120,8 +215,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="TextView"
-            android:textSize="24sp"
+            android:text="Ιι - Γιώτα - giota - صدای (ای)را می دهد یُوتا"
+            android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="30sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -132,8 +229,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="TextView"
-            android:textSize="24sp"
+            android:text="Κκ - Κάπα - kapa - صدای (ک)را می دهد کاپا"
+            android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="30sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -143,9 +242,11 @@
             android:id="@+id/textView36"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:text="TextView"
-            android:textSize="24sp"
+            android:layout_marginTop="16dp"
+            android:text="Λ λ - Λάμδα - lamza صدای (ل)را می دهد لامذا"
+            android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="30sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -155,10 +256,12 @@
             android:id="@+id/textView37"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:text="TextView"
-            android:textSize="24sp"
+            android:layout_marginTop="16dp"
+            android:text="Μ μ - Μι - Mi صدای (م) را می دهد می"
+            android:textColor="#030303"
+            android:textSize="28sp"
             android:textStyle="bold"
+            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView36" />
@@ -172,9 +275,136 @@
             android:textColor="#0B0B0B"
             android:textSize="30sp"
             android:textStyle="bold"
+            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView26" />
+
+        <TextView
+            android:id="@+id/textView319"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Ν ν - Νι - Ni - صدای (ن) را می دهد نی"
+            android:textColor="#030303"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView37" />
+
+        <TextView
+            android:id="@+id/textView320"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Ξ ξ - ΞΙ - ksi صدای (کسی) را می دهد کسی"
+            android:textColor="#030303"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView319" />
+
+        <TextView
+            android:id="@+id/textView321"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Ο ο - Όμικρον - omicron - صدای (اُ) را می دهد اُمیکرون"
+            android:textColor="#070707"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView320" />
+
+        <TextView
+            android:id="@+id/textView322"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Π π - Πι - pi - صدای ( پ) را می دهد پی"
+            android:textColor="#070707"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView321" />
+
+        <TextView
+            android:id="@+id/textView323"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Ρ ρ - Ρο - ro - صدای (ر) را میدهد رو"
+            android:textColor="#070707"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView322" />
+
+        <TextView
+            android:id="@+id/textView325"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Τ τ - Ταυ - tau - صدای (ط . ت ) را میدهد تاف"
+            android:textColor="#070707"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView324" />
+
+        <Button
+            android:id="@+id/button98"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/continue_button_backround"
+            android:text="برگشت"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView330" />
+
+        <Button
+            android:id="@+id/button99"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/home_button"
+            android:text="خانه"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView330" />
+
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="(ما تا جایی که توانسته ایم تلفظ فارسی حروف یونانی را نوشتیم ولی شما تا به این حد قانع نباشید و حتما از آموزگار یونانی و یا از یک یونانی کمک بگیرید. چون روش تلفظ و صدا ها در یونانی بسیار متفاوت است از زبان فارسی.) "
+            android:textColor="#2848FC"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView15" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

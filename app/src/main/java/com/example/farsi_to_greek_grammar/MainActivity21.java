@@ -16,7 +16,7 @@ public class MainActivity21 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main21);
 
-        b31=findViewById(R.id.button31);
+        b31=findViewById(R.id.button1);
         b31.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -24,7 +24,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b32=findViewById(R.id.button32);
+        b32=findViewById(R.id.button2);
         b32.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -32,7 +32,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b33=findViewById(R.id.button33);
+        b33=findViewById(R.id.button3);
         b33.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -40,7 +40,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b34=findViewById(R.id.button34);
+        b34=findViewById(R.id.button4);
         b34.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -48,7 +48,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b35=findViewById(R.id.button35);
+        b35=findViewById(R.id.button5);
         b35.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -56,7 +56,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b36=findViewById(R.id.button36);
+        b36=findViewById(R.id.button6);
         b36.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -64,7 +64,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b37=findViewById(R.id.button37);
+        b37=findViewById(R.id.button7);
         b37.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -72,7 +72,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b38=findViewById(R.id.button38);
+        b38=findViewById(R.id.button8);
         b38.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -80,7 +80,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b39=findViewById(R.id.button39);
+        b39=findViewById(R.id.button9);
         b39.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -88,7 +88,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b40=findViewById(R.id.button40);
+        b40=findViewById(R.id.button10);
         b40.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -96,7 +96,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b41=findViewById(R.id.button41);
+        b41=findViewById(R.id.button11);
         b41.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -104,7 +104,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b42=findViewById(R.id.button42);
+        b42=findViewById(R.id.button12);
         b42.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -112,7 +112,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b43=findViewById(R.id.button43);
+        b43=findViewById(R.id.button13);
         b43.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -120,7 +120,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b44=findViewById(R.id.button44);
+        b44=findViewById(R.id.button14);
         b44.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -128,7 +128,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b45=findViewById(R.id.button45);
+        b45=findViewById(R.id.button15);
         b45.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -136,7 +136,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b46=findViewById(R.id.button46);
+        b46=findViewById(R.id.button16);
         b46.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -144,7 +144,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b47=findViewById(R.id.button47);
+        b47=findViewById(R.id.instagramPage);
         b47.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -152,7 +152,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b48=findViewById(R.id.button48);
+        b48=findViewById(R.id.facebookpage);
         b48.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -160,7 +160,7 @@ public class MainActivity21 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b49=findViewById(R.id.button49);
+        b49=findViewById(R.id.button19);
         b49.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

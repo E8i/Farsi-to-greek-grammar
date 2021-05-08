@@ -10,7 +10,7 @@ import android.widget.Button;
 import java.time.chrono.MinguoChronology;
 
 public class MainActivity5 extends AppCompatActivity {
-        private Button b22,b23,b24,b25,b26,b27,b28,b29,b30,b51;
+        private Button b22,b23,b24,b25,b26,b27,b28,b29,b30,b51,b98;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

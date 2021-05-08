@@ -2,11 +2,13 @@
 <resources>
     <color name="purple_200">#F1D536</color>
     <color name="purple_500">#1668DA</color>
-    <color name="purple_700">#040404</color>
+    <color name="purple_700">#304FFE</color>
     <color name="teal_200">#1668DA</color>
     <color name="teal_700">#FBA83A</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FFFFFF</color>
+    <color name="white">#FFFFFE</color>
+    <color name="ActionBarTitleColor">#FFFFFF</color>
+
 
     <color name="blackStart">#060607</color>
     <color name="blueBlack">#B388FF</color>
@@ -27,4 +29,15 @@
 
     <color name="purpleBackground">#330133</color>
     <color name="purpleAccent">#de00de</color>
+    <color name="move_Accent">#e52325</color>
+
+    <color name="move_500">#9C27B0</color>
+    <color name="deep_purple_500">#673AB7</color>
+
+    <color name="indigo_500">#3F51B5</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="cyan_500">#00BCD4</color>
+
+
+
 </resources>

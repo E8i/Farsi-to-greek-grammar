@@ -2,7 +2,9 @@ package com.example.farsi_to_greek_grammar;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -15,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
                 super.onCreate(savedInstanceState);
                 setContentView(R.layout.activity_main);
 
-                b1=findViewById(R.id.button31);
+                b1=findViewById(R.id.button1);
                 b1.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
@@ -23,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(in);
                     }
                 });
-        b2=findViewById(R.id.button32);
+        b2=findViewById(R.id.button2);
         b2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -31,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b3=findViewById(R.id.button33);
+        b3=findViewById(R.id.button3);
         b3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -39,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b4=findViewById(R.id.button34);
+        b4=findViewById(R.id.button4);
         b4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -47,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b5=findViewById(R.id.button35);
+        b5=findViewById(R.id.button5);
         b5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -55,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b6=findViewById(R.id.button36);
+        b6=findViewById(R.id.button6);
         b6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -63,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b7=findViewById(R.id.button37);
+        b7=findViewById(R.id.button7);
         b7.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -71,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b8=findViewById(R.id.button38);
+        b8=findViewById(R.id.button8);
         b8.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -79,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b9=findViewById(R.id.button39);
+        b9=findViewById(R.id.button9);
         b9.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -87,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b10=findViewById(R.id.button40);
+        b10=findViewById(R.id.button10);
         b10.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -95,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b11=findViewById(R.id.button41);
+        b11=findViewById(R.id.button11);
         b11.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -103,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b12=findViewById(R.id.button42);
+        b12=findViewById(R.id.button12);
         b12.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -111,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b13=findViewById(R.id.button43);
+        b13=findViewById(R.id.button13);
         b13.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -119,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b14=findViewById(R.id.button44);
+        b14=findViewById(R.id.button14);
         b14.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -127,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b15=findViewById(R.id.button45);
+        b15=findViewById(R.id.button15);
         b15.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -135,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b16=findViewById(R.id.button46);
+        b16=findViewById(R.id.button16);
         b16.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -143,23 +145,25 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        b17=findViewById(R.id.button47);
-        b17.setOnClickListener(new View.OnClickListener() {
+
+        Button insta = findViewById(R.id.instagramPage);
+        insta.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent in=new Intent(MainActivity.this,MainActivity18.class);
-                startActivity(in);
+                Uri uri = Uri.parse("https://www.instagram.com/farsi_to_greek/");
+                Intent instagram = new Intent(Intent.ACTION_VIEW,uri);
+                instagram.setPackage("com.instagram.android");
+                try {
+                    startActivity(instagram);
+                } catch (ActivityNotFoundException e) {
+                    startActivity(instagram);
+                }
             }
         });
-        b18=findViewById(R.id.button48);
-        b18.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent in=new Intent(MainActivity.this,MainActivity19.class);
-                startActivity(in);
-            }
-        });
-        b19=findViewById(R.id.button49);
+
+
+
+        b19=findViewById(R.id.button19);
         b19.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -175,5 +179,24 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
+
+        Button button = findViewById(R.id.facebookpage);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                goTofacebookPage("1249742021801726");
+            }
+        });
+    }
+    private void goTofacebookPage(String id){
+         try {
+             Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("fb://page/" + id));
+             startActivity(intent);
+         }catch (ActivityNotFoundException e){
+             Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.facebook.com/" + id));
+             startActivity(intent);
+
+         }
+
     }
 }
