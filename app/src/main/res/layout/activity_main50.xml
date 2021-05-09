@@ -7,7 +7,7 @@
     tools:context=".MainActivity50">
 
     <Button
-        android:id="@+id/button20"
+        android:id="@+id/button116"
         android:layout_width="75dp"
         android:layout_height="75dp"
         android:layout_marginTop="20dp"
@@ -18,11 +18,11 @@
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/button21"
+        app:layout_constraintStart_toEndOf="@+id/button118"
         app:layout_constraintTop_toBottomOf="@+id/button32" />
 
     <Button
-        android:id="@+id/button21"
+        android:id="@+id/button118"
         android:layout_width="75dp"
         android:layout_height="75dp"
         android:layout_marginTop="20dp"
@@ -31,12 +31,12 @@
         android:textColor="#100F0F"
         android:textSize="18sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toStartOf="@+id/button20"
-        app:layout_constraintStart_toEndOf="@+id/button31"
+        app:layout_constraintEnd_toStartOf="@+id/button116"
+        app:layout_constraintStart_toEndOf="@+id/button117"
         app:layout_constraintTop_toBottomOf="@+id/button33" />
 
     <Button
-        android:id="@+id/button31"
+        android:id="@+id/button117"
         android:layout_width="75dp"
         android:layout_height="75dp"
         android:layout_marginStart="10dp"
@@ -46,7 +46,7 @@
         android:textAlignment="center"
         android:textSize="24sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toStartOf="@+id/button21"
+        app:layout_constraintEnd_toStartOf="@+id/button118"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button34" />
 
