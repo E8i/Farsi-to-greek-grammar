@@ -15,20 +15,67 @@
         android:background="@drawable/activity_background"
         tools:context=".MainActivity25">
 
+        <Button
+            android:id="@+id/button114"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/home_button"
+            android:text="خانه"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView17" />
+
         <TextView
             android:id="@+id/textView332"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="در اینجا نمونه ایی از کلمه های مؤنّث را نشان داده می شود "
+            android:text="کلمه هایی که خیلی و حتما در مکالمه استفاده میشود. شما به این تلفظ فارسی قانع نباشید حتما از آموزگار یا یک شخص یونانی زبان کمک بگیرید  "
             android:textColor="#000000"
             android:textColorHint="#090909"
-            android:textSize="22sp"
+            android:textSize="24sp"
             android:textStyle="bold"
+            app:layout_goneMarginTop="10dp"
             android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView11"
+            app:layout_goneMarginTop="5dp"
+            app:srcCompat="@drawable/mypict18" />
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView332"
+            app:srcCompat="@drawable/mypict17" />
+
+        <Button
+            android:id="@+id/button113"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/continue_button_backround"
+            android:text="برگشت"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView17" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </ScrollView>
