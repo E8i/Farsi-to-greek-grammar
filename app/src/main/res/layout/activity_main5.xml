@@ -12,8 +12,8 @@
         android:id="@+id/button22"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="10dp"
         android:background="@drawable/button_bakground"
         android:text="@string/button22"
         android:textColor="#000000"
@@ -22,62 +22,49 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/button23"
-        app:layout_constraintTop_toBottomOf="@+id/textView31" />
-
-    <TextView
-        android:id="@+id/textView31"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="2dp"
-        android:text="TextView"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.144" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button23"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginTop="30dp"
-        android:layout_marginStart="10dp"
+        android:layout_marginTop="50dp"
         android:background="@drawable/button_bakground"
         android:text="حروف صدا دار"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/button22"
         app:layout_constraintStart_toEndOf="@+id/button24"
-        app:layout_constraintTop_toBottomOf="@+id/textView31" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button24"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginStart="60dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="50dp"
         android:background="@drawable/button_bakground"
         android:text="حروف بی صدا"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/button23"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView31" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button25"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginStart="60dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/button_bakground"
         android:text="کلمه های ضروری"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/button26"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button24" />
 
@@ -85,13 +72,13 @@
         android:id="@+id/button26"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/button_bakground"
         android:text="اسم"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/button27"
         app:layout_constraintStart_toEndOf="@+id/button25"
         app:layout_constraintTop_toBottomOf="@+id/button23" />
 
@@ -99,8 +86,8 @@
         android:id="@+id/button27"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
         android:background="@drawable/button_bakground"
         android:text="ضمایر مالکی "
         android:textColor="#0B0B0B"
@@ -115,12 +102,14 @@
         android:id="@+id/button28"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginStart="60dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
         android:background="@drawable/button_bakground"
         android:text="بزودی28"
         android:textSize="18sp"
         android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/button29"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button25" />
 
@@ -128,13 +117,13 @@
         android:id="@+id/button29"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/button_bakground"
         android:text="بزودی29"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/button30"
         app:layout_constraintStart_toEndOf="@+id/button28"
         app:layout_constraintTop_toBottomOf="@+id/button26" />
 
@@ -142,8 +131,8 @@
         android:id="@+id/button30"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
         android:background="@drawable/button_bakground"
         android:text="شماره"
         android:textColor="#000000"
@@ -158,8 +147,9 @@
         android:id="@+id/button51"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginStart="40dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
         android:background="@drawable/continue_button_backround"
         android:text="برگشت"
         android:textColor="#000000"
@@ -167,9 +157,25 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.417"
+        app:layout_constraintStart_toEndOf="@+id/button119"
+        app:layout_constraintTop_toBottomOf="@+id/button30"
+        app:layout_constraintVertical_bias="0.3" />
+
+    <Button
+        android:id="@+id/button119"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button_contact"
+        android:text="تماس    با ما"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/button51"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button29"
-        app:layout_constraintVertical_bias="0.097" />
+        app:layout_constraintTop_toBottomOf="@+id/button28"
+        app:layout_constraintVertical_bias="0.3" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

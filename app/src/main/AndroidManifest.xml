@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Farsi_to_Greek_Grammar">
-        <activity android:name=".MainActivity51"></activity>
+        <activity android:name=".MainActivity52"></activity>
+        <activity android:name=".MainActivity51" />
         <activity android:name=".MainActivity50" />
         <activity android:name=".MainActivity49" />
         <activity android:name=".MainActivity48" />

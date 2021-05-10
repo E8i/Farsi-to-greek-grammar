@@ -10,7 +10,7 @@ import android.widget.Button;
 import java.time.chrono.MinguoChronology;
 
 public class MainActivity5 extends AppCompatActivity {
-        private Button b22,b23,b24,b25,b26,b27,b28,b29,b30,b51,b98;
+        private Button b22,b23,b24,b25,b26,b27,b28,b29,b30,b51,b119;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -95,6 +95,15 @@ public class MainActivity5 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent in=new Intent(MainActivity5.this,MainActivity.class);
+                startActivity(in);
+            }
+        });
+
+        b119=findViewById(R.id.button119);
+        b119.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity5.this,MainActivity50.class);
                 startActivity(in);
             }
         });
