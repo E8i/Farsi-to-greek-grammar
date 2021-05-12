@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity50 extends AppCompatActivity {
-    private Button b116,b117,b118,b120,b123,b126,b34,b35,b18;
+    private Button b116,b117,b118,b123,b126,b34,b35,b18,b20,b17,b21;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,16 +42,6 @@ public class MainActivity50 extends AppCompatActivity {
             }
         });
 
-        b120=findViewById(R.id.button120);
-        b120.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent in=new Intent(MainActivity50.this,MainActivity51.class);
-                startActivity(in);
-
-            }
-        });
-
         b123=findViewById(R.id.button123);
         b123.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -74,7 +64,7 @@ public class MainActivity50 extends AppCompatActivity {
         b34.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent in=new Intent(MainActivity50.this,MainActivity54.class);
+                Intent in=new Intent(MainActivity50.this,MainActivity5.class);
                 startActivity(in);
             }
         });
@@ -93,6 +83,33 @@ public class MainActivity50 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent in=new Intent(MainActivity50.this,MainActivity56.class);
+                startActivity(in);
+            }
+        });
+
+        b20=findViewById(R.id.button20);
+        b20.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity50.this,MainActivity54.class);
+                startActivity(in);
+            }
+        });
+
+        b17=findViewById(R.id.button17);
+        b17.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity50.this,MainActivity57.class);
+                startActivity(in);
+            }
+        });
+
+        b21=findViewById(R.id.button21);
+        b21.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity50.this,MainActivity58.class);
                 startActivity(in);
             }
         });
