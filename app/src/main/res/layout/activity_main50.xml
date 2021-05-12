@@ -30,7 +30,7 @@
         android:background="@drawable/grammar_background"
         android:text="@string/button4"
         android:textColor="#100F0F"
-        android:textSize="18sp"
+        android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toStartOf="@+id/button116"
         app:layout_constraintStart_toEndOf="@+id/button117"
@@ -45,7 +45,7 @@
         android:background="@drawable/home_button"
         android:text="خانه"
         android:textAlignment="center"
-        android:textSize="24sp"
+        android:textSize="26sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toStartOf="@+id/button118"
         app:layout_constraintStart_toStartOf="parent"
@@ -58,21 +58,21 @@
         android:layout_marginTop="20dp"
         android:layout_marginEnd="10dp"
         android:background="@drawable/button_bakground"
-        android:text="بزودی52"
+        android:text="درد دارم"
         android:textColor="#000000"
-        android:textSize="18sp"
+        android:textSize="21sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/button33"
+        app:layout_constraintStart_toEndOf="@+id/button126"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button33"
+        android:id="@+id/button126"
         android:layout_width="75dp"
         android:layout_height="75dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/button_bakground"
-        android:text="بزودی53"
+        android:text="می مانم"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -87,22 +87,22 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/button_bakground"
-        android:text="بزودی54"
+        android:text="منتظرم"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toStartOf="@+id/button33"
+        app:layout_constraintEnd_toStartOf="@+id/button126"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button35"
         android:layout_width="75dp"
         android:layout_height="75dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="10dp"
         android:background="@drawable/button_bakground"
-        android:text="بزودی55"
+        android:text="می خوانم"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -123,7 +123,7 @@
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/button21"
-        app:layout_constraintTop_toBottomOf="@+id/button" />
+        app:layout_constraintTop_toBottomOf="@+id/button35" />
 
     <Button
         android:id="@+id/button18"
@@ -131,13 +131,13 @@
         android:layout_height="75dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/button_bakground"
-        android:text="بزودی54"
+        android:text="خسته ام"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toStartOf="@+id/button"
+        app:layout_constraintEnd_toStartOf="@+id/button35"
         app:layout_constraintStart_toEndOf="@+id/button20"
-        app:layout_constraintTop_toBottomOf="@+id/button33" />
+        app:layout_constraintTop_toBottomOf="@+id/button126" />
 
     <Button
         android:id="@+id/button20"

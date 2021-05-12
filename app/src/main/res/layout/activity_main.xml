@@ -267,7 +267,7 @@
             android:background="@drawable/grammar_background"
             android:text="@string/button4"
             android:textColor="#100F0F"
-            android:textSize="18sp"
+            android:textSize="25sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />

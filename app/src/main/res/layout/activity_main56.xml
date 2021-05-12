@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -12,287 +11,287 @@
         android:layout_height="wrap_content"
         android:padding="48sp"
         android:background="@drawable/activity_background"
-        tools:context=".MainActivity3">
+        tools:context=".MainActivity50">
+
+        <Button
+            android:id="@+id/button134"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/home_button"
+            android:text="خانه"
+            android:textAlignment="center"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView721" />
 
         <TextView
-            android:id="@+id/textView2"
+            android:id="@+id/textView720"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά κουράζεστε-tha kourazeste-خسته خواهید شد"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView719" />
+
+        <TextView
+            android:id="@+id/textView704"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="έχω - echo - دارم - اِخو"
+            android:text="κουράζομαι-kourazome-خسته ام"
             android:textAlignment="center"
-            android:textColor="#070707"
-            android:textSize="22sp"
+            android:textColor="#000000"
+            android:textSize="24sp"
             android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.496"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.07999998" />
+            app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
-            android:id="@+id/textView20"
+            android:id="@+id/textView705"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="έχεις-echeis.داری.اِخیس"
-            android:textColor="#010101"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            android:textAlignment="center"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.498"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView2"
-            app:layout_constraintVertical_bias="0.0" />
-
-        <TextView
-            android:id="@+id/textView21"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="έχει-echei-دارد-اِخیی"
+            android:text="κουράζεσαι-kourazese-خسته ایی"
             android:textAlignment="center"
             android:textColor="#000000"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView20"
-            app:layout_constraintVertical_bias="0.0" />
-
-        <TextView
-            android:id="@+id/textView22"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="44dp"
-            android:text="έχουμε-echoume.داریم.اِخومه"
-            android:textAlignment="center"
-            android:textColor="#060606"
-            android:textSize="20sp"
+            android:textSize="24sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView21" />
+            app:layout_constraintTop_toBottomOf="@+id/textView704" />
 
         <TextView
-            android:id="@+id/textView23"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="έχετε-echete.دارید.اِخِته"
-            android:textAlignment="center"
-            android:textColor="#0D0D0D"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.523"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView22"
-            app:layout_constraintVertical_bias="0.0" />
-
-        <TextView
-            android:id="@+id/textView24"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="έχουν-echoun.دارند.اِخون"
-            android:textAlignment="center"
-            android:textColor="#040404"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView23"
-            app:layout_constraintVertical_bias="0.0" />
-
-        <TextView
-            android:id="@+id/textView53"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="44dp"
-            android:text="είχα-eicha-داشتم.اِیخا"
-            android:textAlignment="center"
-            android:textColor="#000000"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView24" />
-
-        <TextView
-            android:id="@+id/textView57"
+            android:id="@+id/textView706"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="είχες-eiches-داشتی.اِیخِس"
+            android:text="κουράζεται-kourazete-خسته است"
             android:textAlignment="center"
             android:textColor="#000000"
-            android:textSize="22sp"
+            android:textSize="24sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView53" />
+            app:layout_constraintTop_toBottomOf="@+id/textView705" />
 
         <TextView
-            android:id="@+id/textView58"
+            android:id="@+id/textView707"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="κουραζόμαστε-kourazomaste-خسته هستیم"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView706" />
+
+        <TextView
+            android:id="@+id/textView708"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="είχε-eiche-داشت.اِیخِه"
-            android:textAlignment="center"
-            android:textColor="#060606"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView57" />
-
-        <TextView
-            android:id="@+id/textView59"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="30dp"
-            android:text="είχαμε-eichame-داشتیم.اِیخامه"
+            android:text="κουράζεστε-kourazeste-خسته اید"
             android:textAlignment="center"
             android:textColor="#000000"
-            android:textSize="22sp"
+            android:textSize="24sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView58" />
+            app:layout_constraintTop_toBottomOf="@+id/textView707" />
 
         <TextView
-            android:id="@+id/textView60"
+            android:id="@+id/textView709"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="είχατε-eichate-داشتید.اِخاَته"
+            android:text="κουράζονται-kourazonte-خسته هستند"
             android:textAlignment="center"
             android:textColor="#000000"
-            android:textSize="22sp"
+            android:textSize="24sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView59" />
+            app:layout_constraintTop_toBottomOf="@+id/textView708" />
 
         <TextView
-            android:id="@+id/textView61"
+            android:id="@+id/textView710"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="κουραζόμουν-kourazomoun-خسته بودم"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView709" />
+
+        <TextView
+            android:id="@+id/textView711"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="είχαν-eichan-داشتند.اِخاَن"
-            android:textAlignment="center"
-            android:textColor="#010101"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView60" />
-
-        <TextView
-            android:id="@+id/textView62"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="28dp"
-            android:text="θά έχω-tha echo-خواهم داشت.تا اِخو"
+            android:text="κουραζόσουν-kourazosoun-خسته بودی"
             android:textAlignment="center"
             android:textColor="#000000"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.501"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView61" />
-
-        <TextView
-            android:id="@+id/textView63"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:text="θά έχεις-tha echeis-خواهی داشت.تااِخیس"
-            android:textAlignment="center"
-            android:textColor="#070707"
-            android:textSize="22sp"
+            android:textSize="24sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView62" />
+            app:layout_constraintTop_toBottomOf="@+id/textView710" />
 
         <TextView
-            android:id="@+id/textView64"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="12dp"
-            android:text="θά έχει-tha echei-خواهد داشت.تااِخیس"
-            android:textAlignment="center"
-            android:textColor="#000000"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.503"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView63" />
-
-        <TextView
-            android:id="@+id/textView65"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="28dp"
-            android:text="θά έχουμε-tha echoume-ماخواهیم داشت.تااِخومه"
-            android:textAlignment="center"
-            android:textColor="#000000"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView64" />
-
-        <TextView
-            android:id="@+id/textView66"
+            android:id="@+id/textView712"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="θά έχετε-tha echete-شما خواهید داشت.تا اِخِته"
-            android:textAlignment="center"
-            android:textColor="#1B1B1B"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView65" />
-
-        <TextView
-            android:id="@+id/textView67"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="θά έχουν-tha echoun-خواهند داشت.تااِخون"
+            android:text="κουραζόταν-kourazotan-خسته بود"
             android:textAlignment="center"
             android:textColor="#000000"
-            android:textSize="22sp"
+            android:textSize="24sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.503"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView66" />
+            app:layout_constraintTop_toBottomOf="@+id/textView711" />
+
+        <TextView
+            android:id="@+id/textView713"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="κουραζόμαστε-kourazomaste-خسته بودیم"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView712" />
+
+        <TextView
+            android:id="@+id/textView714"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="κουραζόσαστε-kourazosaste-خسته بودید"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView713" />
+
+        <TextView
+            android:id="@+id/textView715"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="κουράζονταν-kourazodan-خسته بودند"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView714" />
+
+        <TextView
+            android:id="@+id/textView716"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="θά κουράζομαι-tha kourazome-خسته خواهم شد"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView715" />
+
+        <TextView
+            android:id="@+id/textView717"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά κουράζεσαι-tha kourazese-خسته خواهی شد"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView716" />
+
+        <TextView
+            android:id="@+id/textView718"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά κουράζεται-tha kourazete-خسته خواهد شد"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView717" />
+
+        <TextView
+            android:id="@+id/textView719"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="θά κουραζόμαστε-tha kourazomaste-خسته خواهیم شد"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView718" />
+
+        <TextView
+            android:id="@+id/textView721"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="θά κουράζονται-tha kourazode-خسته خواهند شد"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView720" />
 
         <Button
-            android:id="@+id/button54"
+            android:id="@+id/button133"
             android:layout_width="75dp"
             android:layout_height="75dp"
-            android:layout_marginTop="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
             android:background="@drawable/continue_button_backround"
             android:text="برگشت"
-            android:textSize="18sp"
+            android:textAlignment="center"
+            android:textSize="22sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView67" />
-
+            app:layout_constraintTop_toBottomOf="@+id/textView721" />
     </androidx.constraintlayout.widget.ConstraintLayout>
-
-
 
 </ScrollView>

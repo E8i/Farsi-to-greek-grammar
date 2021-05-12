@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity50 extends AppCompatActivity {
-    private Button b116,b117,b118,b120,b123;
+    private Button b116,b117,b118,b120,b123,b126,b34,b35,b18;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -60,5 +60,42 @@ public class MainActivity50 extends AppCompatActivity {
                 startActivity(in);
             }
         });
+
+        b126=findViewById(R.id.button126);
+        b126.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity50.this,MainActivity53.class);
+                startActivity(in);
+            }
+        });
+
+        b34=findViewById(R.id.button34);
+        b34.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity50.this,MainActivity54.class);
+                startActivity(in);
+            }
+        });
+
+        b35=findViewById(R.id.button35);
+        b35.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity50.this,MainActivity55.class);
+                startActivity(in);
+            }
+        });
+
+        b18=findViewById(R.id.button18);
+        b18.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity50.this,MainActivity56.class);
+                startActivity(in);
+            }
+        });
+
     }
 }
