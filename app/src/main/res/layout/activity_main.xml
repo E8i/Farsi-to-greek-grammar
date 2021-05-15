@@ -229,7 +229,7 @@
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
             android:background="@drawable/button_bakground"
-            android:text="@string/button1"
+            android:text="می خوام"
             android:textColor="#060606"
             android:textSize="17sp"
             android:textStyle="bold"

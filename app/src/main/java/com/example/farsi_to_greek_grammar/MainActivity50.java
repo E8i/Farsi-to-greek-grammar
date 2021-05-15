@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity50 extends AppCompatActivity {
-    private Button b116,b117,b118,b123,b126,b34,b35,b18,b20,b17,b21;
+    private Button b116,b117,b118,b123,b126,b34,b35,b18,b20,b17,b21,b31;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,7 +37,7 @@ public class MainActivity50 extends AppCompatActivity {
         b118.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent in=new Intent(MainActivity50.this,MainActivity5.class);
+                Intent in=new Intent(MainActivity50.this,MainActivity51.class);
                 startActivity(in);
             }
         });
@@ -110,6 +110,15 @@ public class MainActivity50 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent in=new Intent(MainActivity50.this,MainActivity58.class);
+                startActivity(in);
+            }
+        });
+
+        b31=findViewById(R.id.button31);
+        b31.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity50.this,MainActivity59.class);
                 startActivity(in);
             }
         });
