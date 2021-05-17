@@ -15,7 +15,7 @@
         tools:context=".MainActivity7">
 
         <Button
-            android:id="@+id/button144"
+            android:id="@+id/vlepo4"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -54,7 +54,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button141" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo1" />
 
         <TextView
             android:id="@+id/textView98"
@@ -67,7 +67,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button142" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo2" />
 
         <TextView
             android:id="@+id/textView99"
@@ -80,7 +80,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button143" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo3" />
 
         <TextView
             android:id="@+id/textView100"
@@ -93,7 +93,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button144" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo4" />
 
         <TextView
             android:id="@+id/textView101"
@@ -107,7 +107,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button145" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo5" />
 
         <TextView
             android:id="@+id/textView102"
@@ -121,7 +121,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button146" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo6" />
 
         <TextView
             android:id="@+id/textView103"
@@ -135,7 +135,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button147" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo7" />
 
         <TextView
             android:id="@+id/textView104"
@@ -149,7 +149,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button148" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo8" />
 
         <TextView
             android:id="@+id/textView105"
@@ -163,7 +163,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button149" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo9" />
 
         <TextView
             android:id="@+id/textView106"
@@ -177,7 +177,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button150" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo10" />
 
         <TextView
             android:id="@+id/textView107"
@@ -191,7 +191,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button151" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo11" />
 
         <TextView
             android:id="@+id/textView108"
@@ -205,7 +205,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button152" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo12" />
 
         <TextView
             android:id="@+id/textView109"
@@ -219,7 +219,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button153" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo13" />
 
         <TextView
             android:id="@+id/textView111"
@@ -233,7 +233,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button158" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo14" />
 
         <TextView
             android:id="@+id/textView112"
@@ -247,7 +247,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button157" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo15" />
 
         <TextView
             android:id="@+id/textView113"
@@ -261,7 +261,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button156" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo16" />
 
         <TextView
             android:id="@+id/textView114"
@@ -275,7 +275,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button155" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo17" />
 
         <Button
             android:id="@+id/button57"
@@ -291,10 +291,10 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.9"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button154" />
+            app:layout_constraintTop_toBottomOf="@+id/vlepo18" />
 
         <Button
-            android:id="@+id/button141"
+            android:id="@+id/vlepo1"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -308,7 +308,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
         <Button
-            android:id="@+id/button142"
+            android:id="@+id/vlepo2"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -322,7 +322,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
         <Button
-            android:id="@+id/button143"
+            android:id="@+id/vlepo3"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -336,7 +336,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView98" />
 
         <Button
-            android:id="@+id/button145"
+            android:id="@+id/vlepo5"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -350,7 +350,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView100" />
 
         <Button
-            android:id="@+id/button146"
+            android:id="@+id/vlepo6"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -364,7 +364,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView101" />
 
         <Button
-            android:id="@+id/button147"
+            android:id="@+id/vlepo7"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -378,7 +378,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView102" />
 
         <Button
-            android:id="@+id/button148"
+            android:id="@+id/vlepo8"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -392,7 +392,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView103" />
 
         <Button
-            android:id="@+id/button149"
+            android:id="@+id/vlepo9"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -406,7 +406,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView104" />
 
         <Button
-            android:id="@+id/button150"
+            android:id="@+id/vlepo10"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -420,7 +420,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView105" />
 
         <Button
-            android:id="@+id/button151"
+            android:id="@+id/vlepo11"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -434,7 +434,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView106" />
 
         <Button
-            android:id="@+id/button152"
+            android:id="@+id/vlepo12"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -448,7 +448,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView107" />
 
         <Button
-            android:id="@+id/button153"
+            android:id="@+id/vlepo13"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -462,7 +462,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView108" />
 
         <Button
-            android:id="@+id/button154"
+            android:id="@+id/vlepo18"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -476,7 +476,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView114" />
 
         <Button
-            android:id="@+id/button155"
+            android:id="@+id/vlepo17"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -490,7 +490,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView113" />
 
         <Button
-            android:id="@+id/button156"
+            android:id="@+id/vlepo16"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -504,7 +504,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView112" />
 
         <Button
-            android:id="@+id/button157"
+            android:id="@+id/vlepo15"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -518,7 +518,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView111" />
 
         <Button
-            android:id="@+id/button158"
+            android:id="@+id/vlepo14"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"

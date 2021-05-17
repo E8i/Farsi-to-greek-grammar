@@ -27,7 +27,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato18" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato17" />
 
         <TextView
             android:id="@+id/textView336"
@@ -42,7 +42,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato16" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato15" />
 
         <TextView
             android:id="@+id/textView335"
@@ -56,7 +56,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato15" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato14" />
 
         <TextView
             android:id="@+id/textView55"
@@ -143,7 +143,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.492"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato6" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato5" />
 
         <TextView
             android:id="@+id/textView92"
@@ -158,7 +158,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.516"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato7" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato6" />
 
         <TextView
             android:id="@+id/textView93"
@@ -172,7 +172,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato8" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato7" />
 
         <TextView
             android:id="@+id/textView94"
@@ -187,7 +187,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato9" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato8" />
 
         <TextView
             android:id="@+id/textView95"
@@ -202,7 +202,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato10" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato9" />
 
         <TextView
             android:id="@+id/textView96"
@@ -216,7 +216,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato11" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato10" />
 
         <TextView
             android:id="@+id/textView97"
@@ -230,7 +230,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato12" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato11" />
 
         <Button
             android:id="@+id/button56"
@@ -246,7 +246,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.91"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button132" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato18" />
 
         <TextView
             android:id="@+id/textView333"
@@ -260,7 +260,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato13" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato12" />
 
         <TextView
             android:id="@+id/textView334"
@@ -274,7 +274,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato14" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato13" />
 
         <TextView
             android:id="@+id/textView337"
@@ -288,7 +288,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/perpato17" />
+            app:layout_constraintTop_toBottomOf="@+id/perpato16" />
 
         <Button
             android:id="@+id/perpato1"
@@ -348,7 +348,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView87" />
 
         <Button
-            android:id="@+id/perpato7"
+            android:id="@+id/perpato6"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -362,7 +362,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView91" />
 
         <Button
-            android:id="@+id/perpato8"
+            android:id="@+id/perpato7"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -376,7 +376,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView92" />
 
         <Button
-            android:id="@+id/perpato9"
+            android:id="@+id/perpato8"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -390,7 +390,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView93" />
 
         <Button
-            android:id="@+id/perpato10"
+            android:id="@+id/perpato9"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -404,7 +404,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView94" />
 
         <Button
-            android:id="@+id/perpato11"
+            android:id="@+id/perpato10"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -418,7 +418,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView95" />
 
         <Button
-            android:id="@+id/perpato12"
+            android:id="@+id/perpato11"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -432,7 +432,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView96" />
 
         <Button
-            android:id="@+id/perpato13"
+            android:id="@+id/perpato12"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -446,7 +446,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView97" />
 
         <Button
-            android:id="@+id/perpato14"
+            android:id="@+id/perpato13"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -460,7 +460,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView333" />
 
         <Button
-            android:id="@+id/perpato15"
+            android:id="@+id/perpato14"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -474,7 +474,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView334" />
 
         <Button
-            android:id="@+id/perpato16"
+            android:id="@+id/perpato15"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -488,7 +488,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView335" />
 
         <Button
-            android:id="@+id/perpato17"
+            android:id="@+id/perpato16"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -502,7 +502,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView336" />
 
         <Button
-            android:id="@+id/perpato18"
+            android:id="@+id/perpato17"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -516,7 +516,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView337" />
 
         <Button
-            android:id="@+id/button132"
+            android:id="@+id/perpato18"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -530,7 +530,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView338" />
 
         <Button
-            android:id="@+id/perpato6"
+            android:id="@+id/perpato5"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
