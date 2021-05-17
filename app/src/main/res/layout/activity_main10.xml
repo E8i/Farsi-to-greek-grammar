@@ -19,15 +19,15 @@
             android:id="@+id/textView166"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
+            android:text="θά κοιμούνται-tha kemoude-خواهند خوابید"
+            android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:text="θά κοιμούνται-tha kemoude-خواهند خوابید"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView165" />
+            app:layout_constraintTop_toBottomOf="@+id/button212" />
 
         <TextView
             android:id="@+id/textView164"
@@ -41,91 +41,91 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView163" />
+            app:layout_constraintTop_toBottomOf="@+id/button210" />
 
         <TextView
             android:id="@+id/textView162"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
+            android:text="θά κοιμάσαι-tha kemase-خواهی خوابید"
+            android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:text="θά κοιμάσαι-tha kemase-خواهی خوابید"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView161" />
+            app:layout_constraintTop_toBottomOf="@+id/button208" />
 
         <TextView
             android:id="@+id/textView161"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
+            android:text="θά κοιμάμαι-tha kemame-خواهم خوابید"
+            android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:text="θά κοιμάμαι-tha kemame-خواهم خوابید"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView160" />
+            app:layout_constraintTop_toBottomOf="@+id/button207" />
 
         <TextView
             android:id="@+id/textView160"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
+            android:text="κοιμόνταν-kemodan-خوابیده بودن"
+            android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:text="κοιμόνταν-kemodan-خوابیده بودن"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView159" />
+            app:layout_constraintTop_toBottomOf="@+id/button206" />
 
         <TextView
             android:id="@+id/textView158"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
+            android:text="κοιμόμαστε-kemomaste-خوابیده بودیم"
+            android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:text="κοιμόμαστε-kemomaste-خوابیده بودیم"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView157" />
+            app:layout_constraintTop_toBottomOf="@+id/button204" />
 
         <TextView
             android:id="@+id/textView156"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
+            android:text="κοιμόσουν-kemosoun-خوابیده بودی"
+            android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:text="κοιμόσουν-kemosoun-خوابیده بودی"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView155" />
+            app:layout_constraintTop_toBottomOf="@+id/button202" />
 
         <TextView
             android:id="@+id/textView154"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="κοιμούνται-kemounde-خوابند"
+            android:textAlignment="center"
             android:textColor="#0E0E0E"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView153" />
+            app:layout_constraintTop_toBottomOf="@+id/button200" />
 
         <TextView
             android:id="@+id/textView8"
@@ -145,7 +145,7 @@
             android:id="@+id/textView139"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="12dp"
+            android:layout_marginTop="20dp"
             android:text="κοιμάσσι-kemase-خوابی"
             android:textAlignment="center"
             android:textColor="#000000"
@@ -154,27 +154,27 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView8" />
+            app:layout_constraintTop_toBottomOf="@+id/button196" />
 
         <TextView
             android:id="@+id/textView151"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="καιμάται-kemate-خوابد"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView139" />
+            app:layout_constraintTop_toBottomOf="@+id/button197" />
 
         <TextView
             android:id="@+id/textView152"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="20dp"
             android:text="κοιμόμαστε-kemomaste-خوابیم"
             android:textAlignment="center"
             android:textColor="#070707"
@@ -183,83 +183,83 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.502"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView151" />
+            app:layout_constraintTop_toBottomOf="@+id/button198" />
 
         <TextView
             android:id="@+id/textView153"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="κοιμάστε-kemaste-خوابید"
+            android:textAlignment="center"
             android:textColor="#0E0E0E"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView152" />
+            app:layout_constraintTop_toBottomOf="@+id/button199" />
 
         <TextView
             android:id="@+id/textView155"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
+            android:text="κοιμόμουν-koimomoun-خوابیده بودم"
+            android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:text="κοιμόμουν-koimomoun-خوابیده بودم"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView154" />
+            app:layout_constraintTop_toBottomOf="@+id/button201" />
 
         <TextView
             android:id="@+id/textView157"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
+            android:text="κοιμόταν-kemotan-خوابیده بود"
+            android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:text="κοιμόταν-kemotan-خوابیده بود"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView156" />
+            app:layout_constraintTop_toBottomOf="@+id/button203" />
 
         <TextView
             android:id="@+id/textView159"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
+            android:text="κοιμόσαστε-kemosaste-خوابیده بودید"
+            android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:text="κοιμόσαστε-kemosaste-خوابیده بودید"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView158" />
+            app:layout_constraintTop_toBottomOf="@+id/button205" />
 
         <TextView
             android:id="@+id/textView163"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
+            android:text="θά κοιμάται-tha kemate-خواهد خوابید"
+            android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:text="θά κοιμάται-tha kemate-خواهد خوابید"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView162" />
+            app:layout_constraintTop_toBottomOf="@+id/button209" />
 
         <TextView
             android:id="@+id/textView165"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="20dp"
             android:text="θά κοιμάστε-tha kemaste-خواهید خوابید"
             android:textAlignment="center"
             android:textColor="#070707"
@@ -267,18 +267,271 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView164" />
+            app:layout_constraintTop_toBottomOf="@+id/button211" />
 
         <Button
             android:id="@+id/button60"
             android:layout_width="75dp"
             android:layout_height="75dp"
-            android:layout_marginTop="30dp"
+            android:layout_marginTop="20dp"
             android:background="@drawable/continue_button_backround"
             android:text="برگشت"
+            android:textAlignment="center"
             android:textSize="24sp"
             android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.9"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button213" />
+
+        <Button
+            android:id="@+id/button196"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
             android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+        <Button
+            android:id="@+id/button197"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView139" />
+
+        <Button
+            android:id="@+id/button198"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView151" />
+
+        <Button
+            android:id="@+id/button199"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView152" />
+
+        <Button
+            android:id="@+id/button200"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView153" />
+
+        <Button
+            android:id="@+id/button201"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView154" />
+
+        <Button
+            android:id="@+id/button202"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView155" />
+
+        <Button
+            android:id="@+id/button203"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView156" />
+
+        <Button
+            android:id="@+id/button204"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView157" />
+
+        <Button
+            android:id="@+id/button205"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView158" />
+
+        <Button
+            android:id="@+id/button206"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView159" />
+
+        <Button
+            android:id="@+id/button207"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView160" />
+
+        <Button
+            android:id="@+id/button208"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView161" />
+
+        <Button
+            android:id="@+id/button209"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView162" />
+
+        <Button
+            android:id="@+id/button210"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView163" />
+
+        <Button
+            android:id="@+id/button211"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView164" />
+
+        <Button
+            android:id="@+id/button212"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView165" />
+
+        <Button
+            android:id="@+id/button213"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView166" />
