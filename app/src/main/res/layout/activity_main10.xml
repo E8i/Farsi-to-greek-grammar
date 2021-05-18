@@ -31,13 +31,13 @@
 
         <TextView
             android:id="@+id/textView164"
-            android:layout_width="442dp"
-            android:layout_height="38dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά κοιμόμαστε-tha kemomaste-خواهیم خوابید"
             android:textAlignment="center"
             android:textColor="#070707"
-            android:textSize="13sp"
+            android:textSize="16sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
