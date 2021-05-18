@@ -16,7 +16,7 @@
         tools:context=".MainActivity9">
 
         <Button
-            android:id="@+id/button184"
+            android:id="@+id/gelo13"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -41,7 +41,7 @@
             android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button181" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo16" />
 
         <TextView
             android:id="@+id/textView146"
@@ -55,7 +55,7 @@
             android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button184" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo13" />
 
         <TextView
             android:id="@+id/textView143"
@@ -69,7 +69,7 @@
             android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button187" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo10" />
 
         <TextView
             android:id="@+id/textView117"
@@ -97,7 +97,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button177" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo1" />
 
         <TextView
             android:id="@+id/textView134"
@@ -111,21 +111,21 @@
             android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button195" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo2" />
 
         <TextView
             android:id="@+id/textView135"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="γελάμε - gelame - خندیدیم"
+            android:text="γελούμε - gelουμε - خندیدیم"
             android:textAlignment="center"
             android:textColor="#070707"
             android:textSize="18sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button194" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo3" />
 
         <TextView
             android:id="@+id/textView136"
@@ -139,7 +139,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button193" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo4" />
 
         <TextView
             android:id="@+id/textView137"
@@ -153,7 +153,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button192" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo5" />
 
         <TextView
             android:id="@+id/textView138"
@@ -167,7 +167,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button191" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo6" />
 
         <TextView
             android:id="@+id/textView140"
@@ -181,7 +181,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button190" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo7" />
 
         <TextView
             android:id="@+id/textView141"
@@ -195,7 +195,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button189" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo8" />
 
         <TextView
             android:id="@+id/textView142"
@@ -210,7 +210,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.51"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button188" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo9" />
 
         <TextView
             android:id="@+id/textView144"
@@ -225,7 +225,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.502"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button185" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo11" />
 
         <TextView
             android:id="@+id/textView145"
@@ -239,7 +239,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button186" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo12" />
 
         <TextView
             android:id="@+id/textView147"
@@ -253,21 +253,21 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button183" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo14" />
 
         <TextView
             android:id="@+id/textView148"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="θά γελάμε-tha gelame-خواهیم خندید"
+            android:text="θά γελούμε-tha gelουμε-خواهیم خندید"
             android:textAlignment="center"
             android:textColor="#030303"
             android:textSize="16sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button182" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo15" />
 
         <TextView
             android:id="@+id/textView150"
@@ -281,7 +281,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button180" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo17" />
 
         <Button
             android:id="@+id/button59"
@@ -296,10 +296,10 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.9"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button179" />
+            app:layout_constraintTop_toBottomOf="@+id/gelo18" />
 
         <Button
-            android:id="@+id/button177"
+            android:id="@+id/gelo1"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -313,7 +313,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView117" />
 
         <Button
-            android:id="@+id/button179"
+            android:id="@+id/gelo18"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -327,7 +327,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView150" />
 
         <Button
-            android:id="@+id/button180"
+            android:id="@+id/gelo17"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -342,7 +342,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView149" />
 
         <Button
-            android:id="@+id/button181"
+            android:id="@+id/gelo16"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -356,7 +356,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView148" />
 
         <Button
-            android:id="@+id/button182"
+            android:id="@+id/gelo15"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -370,7 +370,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView147" />
 
         <Button
-            android:id="@+id/button183"
+            android:id="@+id/gelo14"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -384,7 +384,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView146" />
 
         <Button
-            android:id="@+id/button185"
+            android:id="@+id/gelo11"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -398,7 +398,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView143" />
 
         <Button
-            android:id="@+id/button186"
+            android:id="@+id/gelo12"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -412,7 +412,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView144" />
 
         <Button
-            android:id="@+id/button187"
+            android:id="@+id/gelo10"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -426,7 +426,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView142" />
 
         <Button
-            android:id="@+id/button188"
+            android:id="@+id/gelo9"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -440,7 +440,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView141" />
 
         <Button
-            android:id="@+id/button189"
+            android:id="@+id/gelo8"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -454,7 +454,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView140" />
 
         <Button
-            android:id="@+id/button190"
+            android:id="@+id/gelo7"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -468,7 +468,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView138" />
 
         <Button
-            android:id="@+id/button191"
+            android:id="@+id/gelo6"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -482,7 +482,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView137" />
 
         <Button
-            android:id="@+id/button192"
+            android:id="@+id/gelo5"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -496,7 +496,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView136" />
 
         <Button
-            android:id="@+id/button193"
+            android:id="@+id/gelo4"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -510,7 +510,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView135" />
 
         <Button
-            android:id="@+id/button194"
+            android:id="@+id/gelo3"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -524,7 +524,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView134" />
 
         <Button
-            android:id="@+id/button195"
+            android:id="@+id/gelo2"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
