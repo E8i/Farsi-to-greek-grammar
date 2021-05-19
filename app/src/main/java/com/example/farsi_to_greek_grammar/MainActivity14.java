@@ -9,7 +9,8 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity14 extends AppCompatActivity {
-    private Button b64;
+    private Button b64,keleo1,keleo2,keleo3,keleo4,keleo5,keleo6,keleo7,keleo8,keleo9,keleo10,
+            keleo11,keleo12,keleo13,keleo14,keleo15,keleo16,keleo17,keleo18;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

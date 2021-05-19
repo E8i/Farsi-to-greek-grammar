@@ -27,7 +27,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button212" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame17" />
 
         <TextView
             android:id="@+id/textView164"
@@ -41,7 +41,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button210" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame15" />
 
         <TextView
             android:id="@+id/textView162"
@@ -55,7 +55,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button208" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame13" />
 
         <TextView
             android:id="@+id/textView161"
@@ -69,7 +69,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button207" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame12" />
 
         <TextView
             android:id="@+id/textView160"
@@ -83,7 +83,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button206" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame11" />
 
         <TextView
             android:id="@+id/textView158"
@@ -97,7 +97,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button204" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame9" />
 
         <TextView
             android:id="@+id/textView156"
@@ -111,7 +111,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button202" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame7" />
 
         <TextView
             android:id="@+id/textView154"
@@ -125,14 +125,14 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button200" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame5" />
 
         <TextView
             android:id="@+id/textView8"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="κοιμάμαι-kemae-خوابم"
+            android:text="κοιμάμαι-kemame-خوابم"
             android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="18sp"
@@ -154,7 +154,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button196" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame1" />
 
         <TextView
             android:id="@+id/textView151"
@@ -168,7 +168,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button197" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame2" />
 
         <TextView
             android:id="@+id/textView152"
@@ -183,7 +183,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.502"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button198" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame3" />
 
         <TextView
             android:id="@+id/textView153"
@@ -197,7 +197,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button199" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame4" />
 
         <TextView
             android:id="@+id/textView155"
@@ -211,7 +211,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button201" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame6" />
 
         <TextView
             android:id="@+id/textView157"
@@ -225,7 +225,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button203" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame8" />
 
         <TextView
             android:id="@+id/textView159"
@@ -239,7 +239,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button205" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame10" />
 
         <TextView
             android:id="@+id/textView163"
@@ -253,7 +253,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button209" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame14" />
 
         <TextView
             android:id="@+id/textView165"
@@ -267,7 +267,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button211" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame16" />
 
         <Button
             android:id="@+id/button60"
@@ -282,10 +282,10 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.9"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button213" />
+            app:layout_constraintTop_toBottomOf="@+id/kemame18" />
 
         <Button
-            android:id="@+id/button196"
+            android:id="@+id/kemame1"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -299,7 +299,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView8" />
 
         <Button
-            android:id="@+id/button197"
+            android:id="@+id/kemame2"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -313,7 +313,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView139" />
 
         <Button
-            android:id="@+id/button198"
+            android:id="@+id/kemame3"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -327,7 +327,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView151" />
 
         <Button
-            android:id="@+id/button199"
+            android:id="@+id/kemame4"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -341,7 +341,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView152" />
 
         <Button
-            android:id="@+id/button200"
+            android:id="@+id/kemame5"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -355,7 +355,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView153" />
 
         <Button
-            android:id="@+id/button201"
+            android:id="@+id/kemame6"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -369,7 +369,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView154" />
 
         <Button
-            android:id="@+id/button202"
+            android:id="@+id/kemame7"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -383,7 +383,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView155" />
 
         <Button
-            android:id="@+id/button203"
+            android:id="@+id/kemame8"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -397,7 +397,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView156" />
 
         <Button
-            android:id="@+id/button204"
+            android:id="@+id/kemame9"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -411,7 +411,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView157" />
 
         <Button
-            android:id="@+id/button205"
+            android:id="@+id/kemame10"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -425,7 +425,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView158" />
 
         <Button
-            android:id="@+id/button206"
+            android:id="@+id/kemame11"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -439,7 +439,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView159" />
 
         <Button
-            android:id="@+id/button207"
+            android:id="@+id/kemame12"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -453,7 +453,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView160" />
 
         <Button
-            android:id="@+id/button208"
+            android:id="@+id/kemame13"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -467,7 +467,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView161" />
 
         <Button
-            android:id="@+id/button209"
+            android:id="@+id/kemame14"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -481,7 +481,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView162" />
 
         <Button
-            android:id="@+id/button210"
+            android:id="@+id/kemame15"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -495,7 +495,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView163" />
 
         <Button
-            android:id="@+id/button211"
+            android:id="@+id/kemame16"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -509,7 +509,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView164" />
 
         <Button
-            android:id="@+id/button212"
+            android:id="@+id/kemame17"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
@@ -523,7 +523,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView165" />
 
         <Button
-            android:id="@+id/button213"
+            android:id="@+id/kemame18"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"

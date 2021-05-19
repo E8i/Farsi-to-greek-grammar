@@ -8,7 +8,8 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity16 extends AppCompatActivity {
-    private Button b66;
+    private Button b66,pino1,pino2,pino3,pino4,pino5,pino6,pino7,pino8,pino9,pino10,
+            pino11,pino12,pino13,pino14,pino15,pino16,pino17,pino18;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
