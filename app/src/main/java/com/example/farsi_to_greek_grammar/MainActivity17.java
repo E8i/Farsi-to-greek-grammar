@@ -9,7 +9,8 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity17 extends AppCompatActivity {
-    private Button b67;
+    private Button b67,trexo1,trexo2,trexo3,trexo4,trexo5,trexo6,trexo7,trexo8,trexo9,
+            trexo11,trexo12,trexo13,trexo14,trexo15,trexo17,trexo18;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
