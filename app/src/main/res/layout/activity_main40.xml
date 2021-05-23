@@ -22,7 +22,7 @@
             android:layout_marginTop="20dp"
             android:text="θά γυρίζω-tha gurizo-بر می گردم"
             android:textColor="#030303"
-            android:textSize="18sp"
+            android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
