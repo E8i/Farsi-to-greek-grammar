@@ -174,6 +174,7 @@ public class MainActivity21 extends AppCompatActivity {
             public void onClick(View v) {
                 Intent in=new Intent(MainActivity21.this,MainActivity50.class);
                 startActivity(in);
+
             }
         });
 
