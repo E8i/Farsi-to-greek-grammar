@@ -19,15 +19,15 @@
             android:id="@+id/textView318"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά φτάσουν-tha ftasoun-خواهند رسید"
-            android:textColor="#070707"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView317" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa17" />
 
         <TextView
             android:id="@+id/textView316"
@@ -35,41 +35,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά φτάσουμε-tha ftasoume-خواهیم رسید"
-            android:textColor="#070707"
-            android:textSize="15sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView315" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa15" />
 
         <TextView
             android:id="@+id/textView314"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά φτάσεις-tha ftaseis-خواهی رسید"
-            android:textColor="#070707"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView313" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa13" />
 
         <TextView
             android:id="@+id/textView311"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="έχετε φτάσει-echete ftasei-شما رسیده اید"
-            android:textColor="#070707"
-            android:textSize="14sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView310" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa10" />
 
         <TextView
             android:id="@+id/textView310"
@@ -77,41 +77,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="έχουμε φτάσει-echoume ftasei-ما رسیده ایم"
-            android:textColor="#070707"
-            android:textSize="14sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView309" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa9" />
 
         <TextView
             android:id="@+id/textView309"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="έχει φτάσει-echei ftasei-او رسید"
-            android:textColor="#070707"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView308" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa8" />
 
         <TextView
             android:id="@+id/textView308"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="έχεις φτάσει-echeis ftasei-رسیده ای"
-            android:textColor="#070707"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView307" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa7" />
 
         <TextView
             android:id="@+id/textView307"
@@ -119,41 +119,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="έχω φτάσει-echo ftasei-رسیده ام"
-            android:textColor="#070707"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView306" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa6" />
 
         <TextView
             android:id="@+id/textView306"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="έφτασαν - eftasan - رسیدند"
-            android:textColor="#060606"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#060606"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView305" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa5" />
 
         <TextView
             android:id="@+id/textView305"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="φτάσατε - ftasate - رسیدید"
-            android:textColor="#070707"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView304" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa4" />
 
         <TextView
             android:id="@+id/textView304"
@@ -161,27 +161,27 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="φτάσαμε - ftasame - رسیدیم"
-            android:textColor="#000000"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView303" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa3" />
 
         <TextView
             android:id="@+id/textView303"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="έφτασε - eftase - رسید"
-            android:textColor="#030303"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#030303"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView302" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa2" />
 
         <TextView
             android:id="@+id/textView38"
@@ -190,7 +190,7 @@
             android:layout_marginTop="20dp"
             android:text="έφτασα - eftasa - رسیدم"
             android:textColor="#000000"
-            android:textSize="18sp"
+            android:textSize="20sp"
             android:textStyle="bold"
             android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
@@ -201,29 +201,29 @@
             android:id="@+id/textView302"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="έφτασες - eftases - رسیدی"
-            android:textColor="#000000"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView38" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa1" />
 
         <TextView
             android:id="@+id/textView312"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="έχουν φτάσει-echoun ftasei-آنها رسیده اند"
-            android:textColor="#070707"
-            android:textSize="14sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView311" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa11" />
 
         <TextView
             android:id="@+id/textView313"
@@ -231,51 +231,305 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά φτάσω-tha ftaso-خواهم رسید "
-            android:textColor="#070707"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView312" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa12" />
 
         <TextView
             android:id="@+id/textView315"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά φτάσει-tha ftasei-خواهد رسید"
-            android:textColor="#070707"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView314" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa14" />
 
         <TextView
             android:id="@+id/textView317"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά φτάσετε-tha ftasete-خواهید رسید"
-            android:textColor="#070707"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#070707"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView316" />
+            app:layout_constraintTop_toBottomOf="@+id/eftasa16" />
 
         <Button
             android:id="@+id/button69"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginTop="30dp"
+            android:layout_marginEnd="10dp"
             android:background="@drawable/continue_button_backround"
             android:text="برگشت"
             android:textAlignment="center"
             android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.91"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/eftasa18" />
+
+        <Button
+            android:id="@+id/eftasa1"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView38" />
+
+        <Button
+            android:id="@+id/eftasa2"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView302" />
+
+        <Button
+            android:id="@+id/eftasa3"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView303" />
+
+        <Button
+            android:id="@+id/eftasa4"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView304" />
+
+        <Button
+            android:id="@+id/eftasa5"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView305" />
+
+        <Button
+            android:id="@+id/eftasa6"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView306" />
+
+        <Button
+            android:id="@+id/eftasa7"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView307" />
+
+        <Button
+            android:id="@+id/eftasa8"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView308" />
+
+        <Button
+            android:id="@+id/eftasa9"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView309" />
+
+        <Button
+            android:id="@+id/eftasa10"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView310" />
+
+        <Button
+            android:id="@+id/eftasa11"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView311" />
+
+        <Button
+            android:id="@+id/eftasa12"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView312" />
+
+        <Button
+            android:id="@+id/eftasa13"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView313" />
+
+        <Button
+            android:id="@+id/eftasa14"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView314" />
+
+        <Button
+            android:id="@+id/eftasa15"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView315" />
+
+        <Button
+            android:id="@+id/eftasa16"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView316" />
+
+        <Button
+            android:id="@+id/eftasa17"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView317" />
+
+        <Button
+            android:id="@+id/eftasa18"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

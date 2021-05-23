@@ -19,15 +19,15 @@
             android:id="@+id/textView428"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="ακούν-akoun-می شنوند"
+            android:textAlignment="center"
             android:textColor="#040404"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView427" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo5" />
 
         <TextView
             android:id="@+id/textView426"
@@ -35,27 +35,27 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="ακούμε-akoume-می شنویم"
+            android:textAlignment="center"
             android:textColor="#040404"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView425" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo3" />
 
         <TextView
             android:id="@+id/textView425"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="ακούει-akouei-می شنود"
+            android:textAlignment="center"
             android:textColor="#040404"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView424" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo2" />
 
         <TextView
             android:id="@+id/textView423"
@@ -64,7 +64,7 @@
             android:layout_marginTop="20dp"
             android:text="ακούω-akouo-می شنوم"
             android:textColor="#040404"
-            android:textSize="18sp"
+            android:textSize="20sp"
             android:textStyle="bold"
             android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
@@ -75,29 +75,29 @@
             android:id="@+id/textView424"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="ακούς-akous-می شنوی"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView423" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo1" />
 
         <TextView
             android:id="@+id/textView427"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="ακούτε-akoute-می شنوید"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView426" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo4" />
 
         <TextView
             android:id="@+id/textView429"
@@ -105,41 +105,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="άκουσα-akousa-شنیدم"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView428" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo6" />
 
         <TextView
             android:id="@+id/textView430"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="άκουσες-akouses-شنیدی"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView429" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo7" />
 
         <TextView
             android:id="@+id/textView431"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="άκουσε-akouse-شنید"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView430" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo8" />
 
         <TextView
             android:id="@+id/textView432"
@@ -147,41 +147,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="ακούσαμε-akousame-شنیدیم"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView431" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo9" />
 
         <TextView
             android:id="@+id/textView433"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="ακούσατε-akousate-شنیدید"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView432" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo10" />
 
         <TextView
             android:id="@+id/textView434"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="άκουσαν-akousan-شنیدن"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView433" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo11" />
 
         <TextView
             android:id="@+id/textView435"
@@ -189,41 +189,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά ακούσω-tha akouso-خواهم شنید"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView434" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo12" />
 
         <TextView
             android:id="@+id/textView436"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά ακούσεις-tha akouseis-خواهی شنید"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView435" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo13" />
 
         <TextView
             android:id="@+id/textView437"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά ακούσει-tha akousei-خواهد شنید"
-            android:textColor="#040404"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView436" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo14" />
 
         <TextView
             android:id="@+id/textView438"
@@ -231,47 +231,47 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά ακούσουμε-tha akousoume-خواهیم شنید"
-            android:textColor="#040404"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView437" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo15" />
 
         <TextView
             android:id="@+id/textView439"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά ακούσετε-tha akousete-خواهید شنید"
-            android:textColor="#040404"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView438" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo16" />
 
         <TextView
             android:id="@+id/textView440"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά ακούσουν-tha akousoun-خواهند شنید"
-            android:textColor="#040404"
-            android:textSize="16sp"
-            android:textStyle="bold"
             android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView439" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo17" />
 
         <Button
             android:id="@+id/button80"
             android:layout_width="75dp"
             android:layout_height="75dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:layout_marginEnd="10dp"
             android:background="@drawable/continue_button_backround"
             android:text="برگشت"
@@ -279,19 +279,271 @@
             android:textSize="24sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView440" />
+            app:layout_constraintTop_toBottomOf="@+id/akouo18" />
 
         <Button
             android:id="@+id/button81"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:background="@drawable/home_button"
             android:text="خانه"
             android:textAlignment="center"
             android:textSize="24sp"
             android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/akouo18" />
+
+        <Button
+            android:id="@+id/akouo1"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView423" />
+
+        <Button
+            android:id="@+id/akouo2"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView424" />
+
+        <Button
+            android:id="@+id/akouo3"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView425" />
+
+        <Button
+            android:id="@+id/akouo4"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView426" />
+
+        <Button
+            android:id="@+id/akouo5"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView427" />
+
+        <Button
+            android:id="@+id/akouo6"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView428" />
+
+        <Button
+            android:id="@+id/akouo7"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView429" />
+
+        <Button
+            android:id="@+id/akouo8"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView430" />
+
+        <Button
+            android:id="@+id/akouo9"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView431" />
+
+        <Button
+            android:id="@+id/akouo10"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView432" />
+
+        <Button
+            android:id="@+id/akouo11"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView433" />
+
+        <Button
+            android:id="@+id/akouo12"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView434" />
+
+        <Button
+            android:id="@+id/akouo13"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView435" />
+
+        <Button
+            android:id="@+id/akouo14"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView436" />
+
+        <Button
+            android:id="@+id/akouo15"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView437" />
+
+        <Button
+            android:id="@+id/akouo16"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView438" />
+
+        <Button
+            android:id="@+id/akouo17"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView439" />
+
+        <Button
+            android:id="@+id/akouo18"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView440" />
     </androidx.constraintlayout.widget.ConstraintLayout>
