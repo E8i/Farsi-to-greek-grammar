@@ -215,7 +215,7 @@
             android:layout_height="75dp"
             android:layout_marginTop="8dp"
             android:background="@drawable/button_bakground"
-            android:text="می شنوم"
+            android:text="فریاد می زنم"
             android:textSize="18sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
