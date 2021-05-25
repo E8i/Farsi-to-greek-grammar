@@ -33,29 +33,29 @@
             android:id="@+id/textView596"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="καταλαβαίνεις-katalaveneis-می فهمی"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView595" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava1" />
 
         <TextView
             android:id="@+id/textView616"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="καταλαβαίνει-katalavenei-می فهمد"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView596" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava2" />
 
         <TextView
             android:id="@+id/textView617"
@@ -63,41 +63,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="καταλαβαίνουμε-katalavenoume-می فهمیم"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView616" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava3" />
 
         <TextView
             android:id="@+id/textView618"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="καταλαβαίνετε-katalavenete-می فهمید"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView617" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava4" />
 
         <TextView
             android:id="@+id/textView619"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="καταλαβαίνουνε-katalavenoune-می فهمند"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView618" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava5" />
 
         <TextView
             android:id="@+id/textView620"
@@ -105,41 +105,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="κατάλαβα-katalava-فهمیدم"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView619" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava6" />
 
         <TextView
             android:id="@+id/textView621"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="κατάλαβες-katalaves-فهمیدی"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView620" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava7" />
 
         <TextView
             android:id="@+id/textView622"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="κατάλαβε-katalave-فهمید"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView621" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava8" />
 
         <TextView
             android:id="@+id/textView623"
@@ -147,41 +147,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="καταλάβαμε-katalavame-فهمیدیم"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView622" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava9" />
 
         <TextView
             android:id="@+id/textView624"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_width="341dp"
+            android:layout_height="41dp"
+            android:layout_marginTop="20dp"
             android:text="καταλάβατε-katalavate-فهمیدید"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView623" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava10" />
 
         <TextView
             android:id="@+id/textView625"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="κατάλαβαν-katalavan-فهمیدن"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView624" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava11" />
 
         <TextView
             android:id="@+id/textView626"
@@ -189,41 +189,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θα καταλαβαίνω-tha katalaveno-خواهم فهمید"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="22sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView625" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava12" />
 
         <TextView
             android:id="@+id/textView627"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θα καταλαβαίνεις-tha katalaveneis-خواهی فهمید"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="22sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView626" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava13" />
 
         <TextView
             android:id="@+id/textView628"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θα καταλαβαίνει-tha katalavene-خواهد فهمید"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="22sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView627" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava14" />
 
         <TextView
             android:id="@+id/textView629"
@@ -231,54 +231,69 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θα καταλαβαίνουμε-tha katalavenoume-خواهیم فهمید"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView628" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava15" />
 
         <TextView
             android:id="@+id/textView631"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θα καταλαβαίνουνε-tha katalavenoune-خواهند فهمید"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView630" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava17" />
 
         <TextView
             android:id="@+id/textView630"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θα καταλαβαίνετε-tha katalavenete-خواهید فهمید"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView629" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava16" />
 
         <Button
             android:id="@+id/button111"
             android:layout_width="75dp"
             android:layout_height="75dp"
-            android:layout_marginTop="20dp"
-            android:layout_marginEnd="10dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="60dp"
             android:background="@drawable/continue_button_backround"
             android:text="برگشت"
             android:textAlignment="center"
             android:textSize="24sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/katalava18" />
+
+        <Button
+            android:id="@+id/katalava18"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.492"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView631" />
 
         <Button
@@ -286,14 +301,253 @@
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:background="@drawable/home_button"
             android:text="خانه"
             android:textAlignment="center"
             android:textSize="24sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView631" />
+            app:layout_constraintTop_toBottomOf="@+id/katalava18" />
+
+        <Button
+            android:id="@+id/katalava1"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView595" />
+
+        <Button
+            android:id="@+id/katalava2"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView596" />
+
+        <Button
+            android:id="@+id/katalava3"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView616" />
+
+        <Button
+            android:id="@+id/katalava4"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView617" />
+
+        <Button
+            android:id="@+id/katalava5"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView618" />
+
+        <Button
+            android:id="@+id/katalava6"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView619" />
+
+        <Button
+            android:id="@+id/katalava7"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView620" />
+
+        <Button
+            android:id="@+id/katalava8"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView621" />
+
+        <Button
+            android:id="@+id/katalava9"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView622" />
+
+        <Button
+            android:id="@+id/katalava10"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView623" />
+
+        <Button
+            android:id="@+id/katalava11"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView624" />
+
+        <Button
+            android:id="@+id/katalava12"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView625" />
+
+        <Button
+            android:id="@+id/katalava13"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView626" />
+
+        <Button
+            android:id="@+id/katalava14"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView627" />
+
+        <Button
+            android:id="@+id/katalava15"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView628" />
+
+        <Button
+            android:id="@+id/katalava16"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView629" />
+
+        <Button
+            android:id="@+id/katalava17"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView630" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </ScrollView>
