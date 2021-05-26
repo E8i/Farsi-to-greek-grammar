@@ -20,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="φοβούμαι-fovoume-می ترسم"
+            android:text="φοβάμαι-fovame-می ترسم"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
