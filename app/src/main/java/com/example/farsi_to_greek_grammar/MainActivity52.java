@@ -8,7 +8,8 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity52 extends AppCompatActivity {
-    private Button b121,b122;
+    private Button b121,b122,ponao1,ponao2,ponao3,ponao4,ponao5,ponao6,ponao7,ponao8,ponao9,
+            ponao10,ponao11,ponao12,ponao13,ponao14,ponao15,ponao16,ponao17,ponao18;
 
 
     @Override

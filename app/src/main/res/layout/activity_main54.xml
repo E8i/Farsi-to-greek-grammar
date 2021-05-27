@@ -19,7 +19,7 @@
             android:id="@+id/textView686"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά περιμένουν-tha perimenoun-خواهند منتظر ماند"
             android:textAlignment="center"
             android:textColor="#000000"
@@ -27,13 +27,13 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView685" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno17" />
 
         <TextView
             android:id="@+id/textView685"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά περιμένετε-tha perimenete-خواهید منتظر ماند"
             android:textAlignment="center"
             android:textColor="#000000"
@@ -41,7 +41,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView684" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno16" />
 
         <TextView
             android:id="@+id/textView668"
@@ -61,29 +61,29 @@
             android:id="@+id/textView669"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="περιμένεις-perimeneis-منتظری"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView668" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno1" />
 
         <TextView
             android:id="@+id/textView670"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="περιμένει-perimenei-منتظرد"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView669" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno2" />
 
         <TextView
             android:id="@+id/textView671"
@@ -91,41 +91,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="περιμένουμε-perimenoume-منتظریم"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView670" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno3" />
 
         <TextView
             android:id="@+id/textView672"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="περιμένετε-perimenete-منتظریت"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView671" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno4" />
 
         <TextView
             android:id="@+id/textView673"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="περιμένουν-perimenoun-منتظرند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView672" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno5" />
 
         <TextView
             android:id="@+id/textView674"
@@ -133,41 +133,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="περίμενα-perimena-منتظر بودم"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView673" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno6" />
 
         <TextView
             android:id="@+id/textView675"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="περίμενες-perimenes-منتظر بودی"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView674" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno7" />
 
         <TextView
             android:id="@+id/textView676"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="περίμενε-perimene-منتظر بود"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView675" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno8" />
 
         <TextView
             android:id="@+id/textView678"
@@ -175,41 +175,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="περιμέναμε-perimename-منتظر بودیم"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView676" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno9" />
 
         <TextView
             android:id="@+id/textView679"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="περιμένατε-perimenate-منتظر بودید"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView678" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno10" />
 
         <TextView
             android:id="@+id/textView680"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="περίμεναν-perimenan-منتظر بودند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView679" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno11" />
 
         <TextView
             android:id="@+id/textView681"
@@ -217,19 +217,19 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά περιμένω-tha perimeno-خواهم منتظر ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="22sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView680" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno12" />
 
         <TextView
             android:id="@+id/textView682"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="20dp"
             android:text="θά περιμένεις-tha perimeneis-خواهی منتظر ماند"
             android:textAlignment="center"
             android:textColor="#000000"
@@ -238,21 +238,21 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.552"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView681" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno13" />
 
         <TextView
             android:id="@+id/textView683"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά περιμένει-tha perimenei-خواهد منتظر ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="22sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView682" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno14" />
 
         <TextView
             android:id="@+id/textView684"
@@ -260,19 +260,19 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά περιμένουμε-tha perimenoume-خواهیم منتظر ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="22sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView683" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno15" />
 
         <Button
             android:id="@+id/button127"
             android:layout_width="75dp"
             android:layout_height="75dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:layout_marginEnd="10dp"
             android:background="@drawable/continue_button_backround"
             android:text="برگشت"
@@ -280,19 +280,271 @@
             android:textSize="22sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView686" />
+            app:layout_constraintTop_toBottomOf="@+id/perimeno18" />
 
         <Button
             android:id="@+id/button178"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:background="@drawable/home_button"
             android:text="خانه"
             android:textAlignment="center"
             android:textSize="22sp"
             android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/perimeno18" />
+
+        <Button
+            android:id="@+id/perimeno1"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView668" />
+
+        <Button
+            android:id="@+id/perimeno2"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView669" />
+
+        <Button
+            android:id="@+id/perimeno3"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView670" />
+
+        <Button
+            android:id="@+id/perimeno4"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView671" />
+
+        <Button
+            android:id="@+id/perimeno5"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView672" />
+
+        <Button
+            android:id="@+id/perimeno6"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView673" />
+
+        <Button
+            android:id="@+id/perimeno7"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView674" />
+
+        <Button
+            android:id="@+id/perimeno8"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView675" />
+
+        <Button
+            android:id="@+id/perimeno9"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView676" />
+
+        <Button
+            android:id="@+id/perimeno10"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView678" />
+
+        <Button
+            android:id="@+id/perimeno11"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView679" />
+
+        <Button
+            android:id="@+id/perimeno12"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView680" />
+
+        <Button
+            android:id="@+id/perimeno13"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView681" />
+
+        <Button
+            android:id="@+id/perimeno14"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView682" />
+
+        <Button
+            android:id="@+id/perimeno15"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView683" />
+
+        <Button
+            android:id="@+id/perimeno16"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView684" />
+
+        <Button
+            android:id="@+id/perimeno17"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView685" />
+
+        <Button
+            android:id="@+id/perimeno18"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView686" />
 

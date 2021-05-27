@@ -33,29 +33,29 @@
             android:id="@+id/textView651"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μένεις-meneis-می مانی"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView650" />
+            app:layout_constraintTop_toBottomOf="@+id/meno1" />
 
         <TextView
             android:id="@+id/textView652"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μένει-menei-می ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView651" />
+            app:layout_constraintTop_toBottomOf="@+id/meno2" />
 
         <TextView
             android:id="@+id/textView653"
@@ -63,41 +63,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="μένουμε-menoume-می مانیم"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView652" />
+            app:layout_constraintTop_toBottomOf="@+id/meno3" />
 
         <TextView
             android:id="@+id/textView654"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μένετε-menete-می مانید"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView653" />
+            app:layout_constraintTop_toBottomOf="@+id/meno4" />
 
         <TextView
             android:id="@+id/textView655"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μένουν-menoun-می مانند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView654" />
+            app:layout_constraintTop_toBottomOf="@+id/meno5" />
 
         <TextView
             android:id="@+id/textView656"
@@ -105,41 +105,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="έμενα-emena-می ماندم"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView655" />
+            app:layout_constraintTop_toBottomOf="@+id/meno6" />
 
         <TextView
             android:id="@+id/textView657"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="έμενες-emenes-می ماندی"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView656" />
+            app:layout_constraintTop_toBottomOf="@+id/meno7" />
 
         <TextView
             android:id="@+id/textView658"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="έμενε-emene-می ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView657" />
+            app:layout_constraintTop_toBottomOf="@+id/meno8" />
 
         <TextView
             android:id="@+id/textView659"
@@ -147,41 +147,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="μέναμε-mename-می ماندیم"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView658" />
+            app:layout_constraintTop_toBottomOf="@+id/meno9" />
 
         <TextView
             android:id="@+id/textView660"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μένατε-menate-می ماندید"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView659" />
+            app:layout_constraintTop_toBottomOf="@+id/meno10" />
 
         <TextView
             android:id="@+id/textView661"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="έμεναν-emenan-می ماندند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView660" />
+            app:layout_constraintTop_toBottomOf="@+id/meno11" />
 
         <TextView
             android:id="@+id/textView662"
@@ -189,41 +189,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά μένω-tha meno-خواهم ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView661" />
+            app:layout_constraintTop_toBottomOf="@+id/meno12" />
 
         <TextView
             android:id="@+id/textView663"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά μένεις-tha meneis-خواهی ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView662" />
+            app:layout_constraintTop_toBottomOf="@+id/meno13" />
 
         <TextView
             android:id="@+id/textView664"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά μένει-tha menei-خواهد ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView663" />
+            app:layout_constraintTop_toBottomOf="@+id/meno14" />
 
         <TextView
             android:id="@+id/textView665"
@@ -231,66 +231,318 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά μένουμε-tha menoume-خواهیم ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="22sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView664" />
+            app:layout_constraintTop_toBottomOf="@+id/meno15" />
 
         <TextView
             android:id="@+id/textView666"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά μένετε-tha menete-خواهید ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="22sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView665" />
+            app:layout_constraintTop_toBottomOf="@+id/meno16" />
 
         <TextView
             android:id="@+id/textView667"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά μένουν-tha menoun-خواهند ماند"
+            android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="22sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView666" />
+            app:layout_constraintTop_toBottomOf="@+id/meno17" />
 
         <Button
             android:id="@+id/button124"
             android:layout_width="75dp"
             android:layout_height="75dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:background="@drawable/continue_button_backround"
             android:text="برگشت"
             android:textAlignment="center"
             android:textSize="22sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView667" />
+            app:layout_constraintTop_toBottomOf="@+id/meno18" />
 
         <Button
             android:id="@+id/button125"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:background="@drawable/home_button"
             android:text="خانه"
             android:textAlignment="center"
             android:textSize="22sp"
             android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/meno18" />
+
+        <Button
+            android:id="@+id/meno1"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView650" />
+
+        <Button
+            android:id="@+id/meno2"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView651" />
+
+        <Button
+            android:id="@+id/meno3"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView652" />
+
+        <Button
+            android:id="@+id/meno4"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView653" />
+
+        <Button
+            android:id="@+id/meno5"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView654" />
+
+        <Button
+            android:id="@+id/meno6"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView655" />
+
+        <Button
+            android:id="@+id/meno7"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView656" />
+
+        <Button
+            android:id="@+id/meno8"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView657" />
+
+        <Button
+            android:id="@+id/meno9"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView658" />
+
+        <Button
+            android:id="@+id/meno10"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView659" />
+
+        <Button
+            android:id="@+id/meno11"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView660" />
+
+        <Button
+            android:id="@+id/meno12"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView661" />
+
+        <Button
+            android:id="@+id/meno13"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView662" />
+
+        <Button
+            android:id="@+id/meno14"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView663" />
+
+        <Button
+            android:id="@+id/meno15"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView664" />
+
+        <Button
+            android:id="@+id/meno16"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView665" />
+
+        <Button
+            android:id="@+id/meno17"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView666" />
+
+        <Button
+            android:id="@+id/meno18"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView667" />
     </androidx.constraintlayout.widget.ConstraintLayout>
