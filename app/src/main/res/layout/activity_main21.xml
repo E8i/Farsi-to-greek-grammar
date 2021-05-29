@@ -178,7 +178,7 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="می خرم"
-            android:textSize="20sp"
+            android:textSize="17sp"
             android:textStyle="bold"
             app:layout_constraintStart_toEndOf="@+id/button6"
             app:layout_constraintTop_toBottomOf="@+id/button1" />

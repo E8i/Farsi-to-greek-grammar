@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity32 extends AppCompatActivity {
-    private Button b69,eftasa1,eftasa2,eftasa3,eftasa4,eftasa5,eftasa6,eftasa7,eftasa8,eftasa9,
+    private Button b69,home2,eftasa1,eftasa2,eftasa3,eftasa4,eftasa5,eftasa6,eftasa7,eftasa8,eftasa9,
             eftasa10,eftasa11,eftasa12,eftasa13,eftasa14,eftasa15,eftasa16,eftasa17,eftasa18;
 
     @Override
@@ -25,6 +25,16 @@ public class MainActivity32 extends AppCompatActivity {
                 startActivity(in);
             }
         });
+        home2=findViewById(R.id.home2);
+        home2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity32.this,MainActivity.class);
+                startActivity(in);
+            }
+        });
+
+
         eftasa1=findViewById(R.id.eftasa1);
         final MediaPlayer mediaPlayer1 = MediaPlayer.create(this,R.raw.eftasa1);
         eftasa1.setOnClickListener(new View.OnClickListener() {

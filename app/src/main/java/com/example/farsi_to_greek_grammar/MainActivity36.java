@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity36 extends AppCompatActivity {
-    private Button b76,b77,doulevo1,doulevo2,doulevo3,doulevo4,doulevo5,doulevo6,doulevo7,doulevo8,doulevo9,doulevo10,
+    private Button b76,b77,home1,doulevo1,doulevo2,doulevo3,doulevo4,doulevo5,doulevo6,doulevo7,doulevo8,doulevo9,doulevo10,
             doulevo11,doulevo12,doulevo13,doulevo14,doulevo15,doulevo16,doulevo17,doulevo18;
 
     @Override
@@ -34,6 +34,7 @@ public class MainActivity36 extends AppCompatActivity {
                 startActivity(in);
             }
         });
+
         doulevo1=findViewById(R.id.doulevo1);
         final MediaPlayer mediaPlayer1 = MediaPlayer.create(this,R.raw.doulevo1);
         doulevo1.setOnClickListener(new View.OnClickListener() {

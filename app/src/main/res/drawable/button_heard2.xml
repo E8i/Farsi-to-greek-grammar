@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/ActionBarTitleColor"/>
+            <corners android:radius="999dp"/>
+            <stroke
+                android:width="2.5dp"
+                android:color="@color/purple_200"/>
+            <gradient
+                android:startColor="@color/redAccent"
+                android:centerColor="@color/black"
+                android:endColor="@color/redAccent"
+                android:angle="90"/>
+
+        </shape>
+    </item>
+
+</selector>
