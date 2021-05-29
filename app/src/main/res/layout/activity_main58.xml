@@ -20,14 +20,14 @@
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:background="@drawable/home_button"
             android:text="خانه"
             android:textAlignment="center"
             android:textSize="22sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView757" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo18" />
 
         <TextView
             android:id="@+id/textView740"
@@ -49,27 +49,27 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="αγαπάς-agapas-دوست داری"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView740" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo1" />
 
         <TextView
             android:id="@+id/textView742"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="αγαπά-agapa-دوست دارد"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView741" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo2" />
 
         <TextView
             android:id="@+id/textView743"
@@ -77,41 +77,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="αγαπούμε-agapume-دوست داریم"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView742" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo3" />
 
         <TextView
             android:id="@+id/textView744"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="αγαπάτε-agapate-دوست دارید"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView743" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo4" />
 
         <TextView
             android:id="@+id/textView745"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="αγαπούν-agapoun-دوست دارند"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView744" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo5" />
 
         <TextView
             android:id="@+id/textView746"
@@ -119,41 +119,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="αγαπούσα-agapousa-دوست داشتم"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView745" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo6" />
 
         <TextView
             android:id="@+id/textView747"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="αγαπούσες-agapouses-دوست داشتی"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView746" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo7" />
 
         <TextView
             android:id="@+id/textView748"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="αγαπούσε-agapuse-دوست داشت"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView747" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo8" />
 
         <TextView
             android:id="@+id/textView749"
@@ -161,41 +161,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="αγαπούσαμε-agapousame-دوست داشتیم"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView748" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo9" />
 
         <TextView
             android:id="@+id/textView750"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="αγαπούσατε-agapousate-دوست داشتید"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView749" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo10" />
 
         <TextView
             android:id="@+id/textView751"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="αγαπούσαν-agapusan-دوست داشتند"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView750" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo11" />
 
         <TextView
             android:id="@+id/textView752"
@@ -203,69 +203,69 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά αγαπώ-tha agapo-خواهم دوست داشت"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView751" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo12" />
 
         <TextView
             android:id="@+id/textView753"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά αγαπάς-tha agapas-خواهی دوست داشت"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView752" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo13" />
 
         <TextView
             android:id="@+id/textView754"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά αγαπά-tha agapa-خواهد دوست داشت"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView753" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo14" />
 
         <TextView
             android:id="@+id/textView757"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά αγαπούν-tha agapoun-خواهند دوست داشت"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView756" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo17" />
 
         <TextView
             android:id="@+id/textView756"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά αγαπάτε-tha agapate-خواهید دوست داشت"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView755" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo16" />
 
         <TextView
             android:id="@+id/textView755"
@@ -273,19 +273,19 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά αγαπούμε-tha agapoume-خواهیم دوست داشت"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView754" />
+            app:layout_constraintTop_toBottomOf="@+id/agapo15" />
 
         <Button
             android:id="@+id/button137"
             android:layout_width="75dp"
             android:layout_height="75dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:layout_marginEnd="10dp"
             android:background="@drawable/continue_button_backround"
             android:text="برگشت"
@@ -293,6 +293,258 @@
             android:textSize="22sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/agapo18" />
+
+        <Button
+            android:id="@+id/agapo1"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView740" />
+
+        <Button
+            android:id="@+id/agapo2"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView741" />
+
+        <Button
+            android:id="@+id/agapo3"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView742" />
+
+        <Button
+            android:id="@+id/agapo4"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView743" />
+
+        <Button
+            android:id="@+id/agapo5"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView744" />
+
+        <Button
+            android:id="@+id/agapo6"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView745" />
+
+        <Button
+            android:id="@+id/agapo7"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView746" />
+
+        <Button
+            android:id="@+id/agapo8"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView747" />
+
+        <Button
+            android:id="@+id/agapo9"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView748" />
+
+        <Button
+            android:id="@+id/agapo10"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView749" />
+
+        <Button
+            android:id="@+id/agapo11"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView750" />
+
+        <Button
+            android:id="@+id/agapo12"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView751" />
+
+        <Button
+            android:id="@+id/agapo13"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView752" />
+
+        <Button
+            android:id="@+id/agapo14"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView753" />
+
+        <Button
+            android:id="@+id/agapo15"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView754" />
+
+        <Button
+            android:id="@+id/agapo16"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView755" />
+
+        <Button
+            android:id="@+id/agapo17"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView756" />
+
+        <Button
+            android:id="@+id/agapo18"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView757" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 

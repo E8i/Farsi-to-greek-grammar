@@ -8,7 +8,8 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity58 extends AppCompatActivity {
-    private Button b137,b138;
+    private Button b137,b138,agapo1,agapo2,agapo3,agapo4,agapo5,agapo6,agapo7,agapo8,agapo9,
+            agapo10,agapo11,agapo12,agapo13,agapo14,agapo15,agapo16,agapo17,agapo18;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,5 +33,7 @@ public class MainActivity58 extends AppCompatActivity {
                 startActivity(in);
             }
         });
+
+
     }
 }

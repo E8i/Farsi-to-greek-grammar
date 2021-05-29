@@ -24,7 +24,7 @@
 
 
     <color name="greenBackground">#013300</color>
-    <color name="greenAccent">#2ffd64</color>
+    <color name="pink">#69F0AE</color>
 
 
     <color name="purpleBackground">#330133</color>
@@ -41,6 +41,7 @@
     <color name="orange">#FF9100</color>
     <color name="move_red">#FF1744</color>
     <color name="green_wite">#64FFDA</color>
+    <color name="green_well">#76FF03</color>
 
 
 

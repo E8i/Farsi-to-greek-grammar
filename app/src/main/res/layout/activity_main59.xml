@@ -19,15 +19,15 @@
             android:id="@+id/textView775"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά μπορούν-tha boroun-خواهند توانست"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView774" />
+            app:layout_constraintTop_toBottomOf="@+id/boro17" />
 
         <TextView
             android:id="@+id/textView758"
@@ -47,29 +47,29 @@
             android:id="@+id/textView759"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μπορείς-boroeis-می توانی"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView758" />
+            app:layout_constraintTop_toBottomOf="@+id/boro1" />
 
         <TextView
             android:id="@+id/textView760"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μπορεί-borei-می تواند"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView759" />
+            app:layout_constraintTop_toBottomOf="@+id/boro2" />
 
         <TextView
             android:id="@+id/textView761"
@@ -77,41 +77,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="μπορούμε-boroume-می توانیم"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView760" />
+            app:layout_constraintTop_toBottomOf="@+id/boro3" />
 
         <TextView
             android:id="@+id/textView762"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μπορείτε-boreite-می توانید"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView761" />
+            app:layout_constraintTop_toBottomOf="@+id/boro4" />
 
         <TextView
             android:id="@+id/textView763"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μπορούν-boroun-می توانند"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView762" />
+            app:layout_constraintTop_toBottomOf="@+id/boro5" />
 
         <TextView
             android:id="@+id/textView764"
@@ -119,41 +119,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="μπορούσα-borousa-می توانستم"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView763" />
+            app:layout_constraintTop_toBottomOf="@+id/boro6" />
 
         <TextView
             android:id="@+id/textView765"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μπορούσες-borouses-می توانستی"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView764" />
+            app:layout_constraintTop_toBottomOf="@+id/boro7" />
 
         <TextView
             android:id="@+id/textView766"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μπορούσε-borouse-می توانست"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView765" />
+            app:layout_constraintTop_toBottomOf="@+id/boro8" />
 
         <TextView
             android:id="@+id/textView767"
@@ -161,41 +161,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="μπορούσαμε-borousame-می توانستیم"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView766" />
+            app:layout_constraintTop_toBottomOf="@+id/boro9" />
 
         <TextView
             android:id="@+id/textView768"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μπορείτε-boreite-می توانستید"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView767" />
+            app:layout_constraintTop_toBottomOf="@+id/boro10" />
 
         <TextView
             android:id="@+id/textView769"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="μπορούσαν-borousan-می توانستند"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView768" />
+            app:layout_constraintTop_toBottomOf="@+id/boro11" />
 
         <TextView
             android:id="@+id/textView770"
@@ -203,41 +203,41 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά μπορώ-tha boro-خواهم توانست"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView769" />
+            app:layout_constraintTop_toBottomOf="@+id/boro12" />
 
         <TextView
             android:id="@+id/textView771"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά μπορείς-tha boreis-خواهی توانست"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView770" />
+            app:layout_constraintTop_toBottomOf="@+id/boro13" />
 
         <TextView
             android:id="@+id/textView772"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά μπορεί-tha borei-خواهد توانست"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView771" />
+            app:layout_constraintTop_toBottomOf="@+id/boro14" />
 
         <TextView
             android:id="@+id/textView773"
@@ -245,33 +245,33 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="θά μπορούμε-tha boroume-خواهیم توانست"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView772" />
+            app:layout_constraintTop_toBottomOf="@+id/boro15" />
 
         <TextView
             android:id="@+id/textView774"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:text="θά μπορείτε-tha boreite-خواهید توانست"
+            android:textAlignment="center"
+            android:textColor="#000000"
             android:textSize="24dp"
             android:textStyle="bold"
-            android:textColor="#000000"
-            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView773" />
+            app:layout_constraintTop_toBottomOf="@+id/boro16" />
 
         <Button
             android:id="@+id/button139"
             android:layout_width="75dp"
             android:layout_height="75dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:layout_marginEnd="10dp"
             android:background="@drawable/continue_button_backround"
             android:text="برگشت"
@@ -279,19 +279,271 @@
             android:textSize="22sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView775" />
+            app:layout_constraintTop_toBottomOf="@+id/boro18" />
 
         <Button
             android:id="@+id/button140"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:background="@drawable/home_button"
             android:text="خانه"
             android:textAlignment="center"
             android:textSize="22sp"
             android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/boro18" />
+
+        <Button
+            android:id="@+id/boro1"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView758" />
+
+        <Button
+            android:id="@+id/boro2"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView759" />
+
+        <Button
+            android:id="@+id/boro3"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView760" />
+
+        <Button
+            android:id="@+id/boro4"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView761" />
+
+        <Button
+            android:id="@+id/boro5"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView762" />
+
+        <Button
+            android:id="@+id/boro6"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView763" />
+
+        <Button
+            android:id="@+id/boro7"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView764" />
+
+        <Button
+            android:id="@+id/boro8"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView765" />
+
+        <Button
+            android:id="@+id/boro9"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView766" />
+
+        <Button
+            android:id="@+id/boro10"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView767" />
+
+        <Button
+            android:id="@+id/boro11"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView768" />
+
+        <Button
+            android:id="@+id/boro12"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView769" />
+
+        <Button
+            android:id="@+id/boro13"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView770" />
+
+        <Button
+            android:id="@+id/boro14"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView771" />
+
+        <Button
+            android:id="@+id/boro15"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView772" />
+
+        <Button
+            android:id="@+id/boro16"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView773" />
+
+        <Button
+            android:id="@+id/boro17"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView774" />
+
+        <Button
+            android:id="@+id/boro18"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_heard"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView775" />
     </androidx.constraintlayout.widget.ConstraintLayout>
