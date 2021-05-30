@@ -8,15 +8,44 @@
     tools:context=".MainActivity61">
 
     <TextView
-        android:id="@+id/textView88"
+        android:id="@+id/activity_main_hyperlink"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
-        android:text="آگهی 61"
-        android:textColor="#091556"
-        android:textSize="60dp"
-        android:textStyle="bold"
+        android:text="@string/hyperlink_youtub"
+        android:textSize="24dp"
+        android:textColor="@color/blackStart"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonb"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/continue_button_backround"
+        android:text="برگشت"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/buttonk" />
+
+    <Button
+        android:id="@+id/buttonk"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/home_button"
+        android:text="خانه"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/buttonb"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
