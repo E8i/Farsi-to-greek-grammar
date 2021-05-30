@@ -81,7 +81,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/alpha119" />
+            app:layout_constraintTop_toBottomOf="@+id/alpha19" />
 
         <TextView
             android:id="@+id/textView324"
@@ -364,7 +364,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/alpha118" />
+            app:layout_constraintTop_toBottomOf="@+id/alpha18" />
 
         <Button
             android:id="@+id/button98"
@@ -633,7 +633,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView323" />
 
         <Button
-            android:id="@+id/alpha118"
+            android:id="@+id/alpha18"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
@@ -647,7 +647,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView324" />
 
         <Button
-            android:id="@+id/alpha119"
+            android:id="@+id/alpha19"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"

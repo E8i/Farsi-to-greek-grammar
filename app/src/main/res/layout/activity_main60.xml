@@ -7,18 +7,14 @@
     tools:context=".MainActivity60">
 
     <TextView
-        android:id="@+id/textView32"
+        android:id="@+id/textView90"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
-        android:text="MainActivity51"
-        android:textColor="#D71414"
-        android:textSize="24sp"
+        android:layout_marginTop="50dp"
+        android:text="گردشگری 60"
+        android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-
-
-
