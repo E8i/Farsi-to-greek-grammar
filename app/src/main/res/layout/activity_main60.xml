@@ -15,6 +15,22 @@
         android:background="@drawable/contectus_background"
         tools:context=".MainActivity60">
 
+        <Button
+            android:id="@+id/tour2"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/home_button"
+            android:text="خانه"
+            android:textAlignment="center"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/tour1"
+            app:layout_constraintHorizontal_bias="0.1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView803" />
+
         <TextView
             android:id="@+id/textView88"
             android:layout_width="wrap_content"
@@ -385,8 +401,8 @@
 
         <ImageView
             android:id="@+id/imageView24"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="356dp"
+            android:layout_height="365dp"
             android:layout_marginTop="5dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -495,6 +511,102 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView799"
             app:srcCompat="@drawable/santorini" />
+
+        <TextView
+            android:id="@+id/textView800"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="10 ελαφόνησος elafonhsos"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView26" />
+
+        <ImageView
+            android:id="@+id/imageView27"
+            android:layout_width="475dp"
+            android:layout_height="333dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView800"
+            app:srcCompat="@drawable/elafonisos" />
+
+        <TextView
+            android:id="@+id/textView801"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="11 μύκονος  mikonos"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView27" />
+
+        <ImageView
+            android:id="@+id/imageView28"
+            android:layout_width="293dp"
+            android:layout_height="383dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView801"
+            app:srcCompat="@drawable/mikonos" />
+
+        <TextView
+            android:id="@+id/textView802"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="12ζάκυνθος zakinthos"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView28" />
+
+        <ImageView
+            android:id="@+id/imageView29"
+            android:layout_width="288dp"
+            android:layout_height="381dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView802"
+            app:srcCompat="@drawable/zakinthos" />
+
+        <TextView
+            android:id="@+id/textView803"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="ما اینجا 12 جاذبه گرشگری را برای شما نشان داده ایم. باور کنید که یونان همه جزیرها همینطور قشنگ است و کل یونان از یک طبیعت خاصی است که برای گردش در همه یونان و جزیره ها شما احتیاج به سالها وقت گذاشتن دارید. "
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView29" />
+
+        <Button
+            android:id="@+id/tour1"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="28dp"
+            android:background="@drawable/continue_button_backround"
+            android:text="برگشت"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tour2"
+            app:layout_constraintTop_toBottomOf="@+id/textView803" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </ScrollView>

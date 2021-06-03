@@ -221,7 +221,7 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/button_bakground"
-        android:text="بزودی59"
+        android:text="حرف می زنم"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"

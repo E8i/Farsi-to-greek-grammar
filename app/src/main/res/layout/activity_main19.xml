@@ -1,17 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_width="match_parent">
+    android:background="@drawable/activity_background"
+    tools:context=".MainActivity19">
 
-
-    <androidx.constraintlayout.widget.ConstraintLayout
-        android:layout_width="match_parent"
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:padding="48sp"
-        tools:context=".MainActivity18"/>
+        android:layout_marginTop="40dp"
+        android:text="شما می توانید به ایمیل پایین به ما ایمیل بزنید و نظرات ، انتقادات و پیشنهادات خود را با ما در میان بگذارید."
+        android:textColor="#17062F"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
-</ScrollView>
+    <TextView
+        android:id="@+id/textView804"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="farsi.greek@gmail.com"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textColor="@color/design_default_color_primary_variant"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView32" />
+
+    <Button
+        android:id="@+id/conect4"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/continue_button_backround"
+        android:text="برگشت"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/conect5"
+        app:layout_constraintTop_toBottomOf="@+id/textView804" />
+
+    <Button
+        android:id="@+id/conect5"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/home_button"
+        android:text="خانه"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/conect4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView804" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

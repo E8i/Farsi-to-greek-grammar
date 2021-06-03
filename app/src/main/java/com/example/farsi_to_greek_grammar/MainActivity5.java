@@ -105,7 +105,7 @@ public class MainActivity5 extends AppCompatActivity {
         b119.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent in=new Intent(MainActivity5.this,MainActivity51.class);
+                Intent in=new Intent(MainActivity5.this,MainActivity19.class);
                 startActivity(in);
             }
         });
