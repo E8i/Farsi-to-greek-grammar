@@ -13,7 +13,7 @@ public class MainActivity61 extends AppCompatActivity {
 
     private Button buttonb,buttonk;
 
-    TextView linktextView649;
+    TextView linktextView649,textView825;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,6 +22,9 @@ public class MainActivity61 extends AppCompatActivity {
 
         linktextView649 = findViewById(R.id.activity_main_hyperlink);
         linktextView649.setMovementMethod(LinkMovementMethod.getInstance());
+
+        textView825 = findViewById(R.id.textView825);
+        textView825.setMovementMethod(LinkMovementMethod.getInstance());
 
 
         buttonb=findViewById(R.id.buttonb);

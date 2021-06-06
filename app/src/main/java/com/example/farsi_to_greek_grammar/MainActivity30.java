@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity30 extends AppCompatActivity {
-    private Button b115;
+    private Button b115,button;
 
     TextView linkTextView;
 
@@ -27,6 +27,14 @@ public class MainActivity30 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent in=new Intent(MainActivity30.this,MainActivity5.class);
+                startActivity(in);
+            }
+        });
+        button=findViewById(R.id.button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity30.this,MainActivity.class);
                 startActivity(in);
             }
         });

@@ -11,12 +11,12 @@
         android:id="@+id/textView32"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="10dp"
         android:text="شما می توانید به ایمیل پایین به ما ایمیل بزنید و نظرات ، انتقادات و پیشنهادات خود را با ما در میان بگذارید."
-        android:textColor="#17062F"
-        android:textSize="24sp"
-        android:textStyle="bold"
         android:textAlignment="center"
+        android:textColor="#17062F"
+        android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -25,11 +25,11 @@
         android:id="@+id/textView804"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="5dp"
         android:text="farsi.greek@gmail.com"
         android:textAlignment="center"
-        android:textSize="30dp"
         android:textColor="@color/design_default_color_primary_variant"
+        android:textSize="30dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView32" />
@@ -38,7 +38,7 @@
         android:id="@+id/conect4"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:background="@drawable/continue_button_backround"
         android:text="برگشت"
@@ -46,20 +46,45 @@
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/conect5"
-        app:layout_constraintTop_toBottomOf="@+id/textView804" />
+        app:layout_constraintTop_toBottomOf="@+id/textView824" />
 
     <Button
         android:id="@+id/conect5"
         android:layout_width="75dp"
         android:layout_height="75dp"
         android:layout_marginStart="10dp"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="10dp"
         android:background="@drawable/home_button"
         android:text="خانه"
         android:textAlignment="center"
         android:textSize="22sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toStartOf="@+id/conect4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView824" />
+
+    <TextView
+        android:id="@+id/textView824"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="
+این اپلکیشن را برای فارسی زبان ها طراحی و درست کردم
+و باعث افتخار من است که می توانم کمکی باشم برای
+یاد دادن یونانی به فارسی زبان ها این اولین کار من است
+و در آینده کلمه یاب و جمله های پر استفاده را در اپلکیشن
+جداگانه ایی برای فارسی زبان ها درست میکنم . و برای
+ طراحی اپلکیشن و ساخت آن شما می توانید به ایمیل بالا
+ درخواست خود را بنویسید . هر گونه همکاری و حمایت
+شما باعث می شود که در فرهنگ فارسی یونانی پیشرفت
+چشم گیری داشته باشیم. با سپاس.
+
+"
+        android:textAlignment="center"
+        android:textColor="#17062F"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView804" />
 

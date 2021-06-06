@@ -15,6 +15,7 @@
         android:text="@string/hyperlink_youtub"
         android:textSize="24dp"
         android:textColor="@color/blackStart"
+        android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -48,4 +49,17 @@
         app:layout_constraintEnd_toStartOf="@+id/buttonb"
         app:layout_constraintHorizontal_bias="0.2"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView825"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/hyperlink_youtub2"
+        android:textSize="24dp"
+        android:textColor="@color/blackStart"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/activity_main_hyperlink" />
 </androidx.constraintlayout.widget.ConstraintLayout>
