@@ -18,7 +18,7 @@ public class MainActivity51 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main51);
 
-        conect1=findViewById(R.id.conect4);
+        conect1=findViewById(R.id.conect1);
         conect1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -26,7 +26,7 @@ public class MainActivity51 extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        conect2=findViewById(R.id.conect5);
+        conect2=findViewById(R.id.conect2);
         conect2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

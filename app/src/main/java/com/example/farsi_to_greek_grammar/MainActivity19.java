@@ -8,23 +8,23 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity19 extends AppCompatActivity {
-    private Button conect4,conect5;
+    private Button button32,button33;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main19);
 
-        conect4=findViewById(R.id.conect4);
-        conect4.setOnClickListener(new View.OnClickListener() {
+        button32=findViewById(R.id.conect1);
+        button32.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent in=new Intent(MainActivity19.this,MainActivity5.class);
                 startActivity(in);
             }
         });
-        conect5=findViewById(R.id.conect5);
-        conect5.setOnClickListener(new View.OnClickListener() {
+        button33=findViewById(R.id.conect2);
+        button33.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent in=new Intent(MainActivity19.this,MainActivity.class);

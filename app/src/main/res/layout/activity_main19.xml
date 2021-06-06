@@ -1,74 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/activity_background"
-    tools:context=".MainActivity19">
+    android:layout_width="match_parent">
 
-    <TextView
-        android:id="@+id/textView32"
-        android:layout_width="wrap_content"
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
-        android:text="شما می توانید به ایمیل پایین به ما ایمیل بزنید و نظرات ، انتقادات و پیشنهادات خود را با ما در میان بگذارید."
-        android:textAlignment="center"
-        android:textColor="#17062F"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:padding="48sp"
+        android:background="@drawable/activity_background"
+        tools:context=".MainActivity19">
 
-    <TextView
-        android:id="@+id/textView804"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="5dp"
-        android:text="farsi.greek@gmail.com"
-        android:textAlignment="center"
-        android:textColor="@color/design_default_color_primary_variant"
-        android:textSize="30dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView32" />
+        <TextView
+            android:id="@+id/textView827"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="شما می توانید به ایمیل پایین به ما ایمیل بزنید و نظرات ، انتقادات و پیشنهادات خود را با ما در میان بگذارید."
+            android:textAlignment="center"
+            android:textColor="#17062F"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/conect4"
-        android:layout_width="75dp"
-        android:layout_height="75dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginEnd="10dp"
-        android:background="@drawable/continue_button_backround"
-        android:text="برگشت"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/conect5"
-        app:layout_constraintTop_toBottomOf="@+id/textView824" />
+        <TextView
+            android:id="@+id/textView828"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="farsi.greek@gmail.com"
+            android:textAlignment="center"
+            android:textColor="@color/design_default_color_primary_variant"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView827" />
 
-    <Button
-        android:id="@+id/conect5"
-        android:layout_width="75dp"
-        android:layout_height="75dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="10dp"
-        android:background="@drawable/home_button"
-        android:text="خانه"
-        android:textAlignment="center"
-        android:textSize="22sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toStartOf="@+id/conect4"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView824" />
-
-    <TextView
-        android:id="@+id/textView824"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="5dp"
-        android:text="
+        <TextView
+            android:id="@+id/textView829"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="40sp"
+            android:text="
 این اپلکیشن را برای فارسی زبان ها طراحی و درست کردم
 و باعث افتخار من است که می توانم کمکی باشم برای
 یاد دادن یونانی به فارسی زبان ها این اولین کار من است
@@ -77,15 +59,42 @@
  طراحی اپلکیشن و ساخت آن شما می توانید به ایمیل بالا
  درخواست خود را بنویسید . هر گونه همکاری و حمایت
 شما باعث می شود که در فرهنگ فارسی یونانی پیشرفت
-چشم گیری داشته باشیم. با سپاس.
+چشم گیری داشته باشیم. با سپاس."
+            android:textAlignment="center"
+            android:textColor="#17062F"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView828" />
 
-"
-        android:textAlignment="center"
-        android:textColor="#17062F"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView804" />
+        <Button
+            android:id="@+id/conect1"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/continue_button_backround"
+            android:text="برگشت"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView829" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        <Button
+            android:id="@+id/conect2"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/home_button"
+            android:text="خانه"
+            android:textAlignment="center"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView829" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</ScrollView>
