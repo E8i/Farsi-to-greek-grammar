@@ -26,7 +26,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth39" />
+            app:layout_constraintTop_toBottomOf="@+id/helth36" />
 
         <TextView
             android:id="@+id/textView830"
@@ -40,7 +40,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth35" />
+            app:layout_constraintTop_toBottomOf="@+id/helth32" />
 
         <TextView
             android:id="@+id/textView860"
@@ -54,7 +54,7 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth30" />
+            app:layout_constraintTop_toBottomOf="@+id/helth28" />
 
         <TextView
             android:id="@+id/textView859"
@@ -68,14 +68,14 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth29" />
+            app:layout_constraintTop_toBottomOf="@+id/helth27" />
 
         <TextView
             android:id="@+id/textView857"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="Η εγκεφαλική-سکته مغزی"
+            android:text="εγκεφαλική-سکته مغزی"
             android:textAlignment="center"
             android:textColor="@color/blackStart"
             android:textSize="24dp"
@@ -83,7 +83,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.499"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth27" />
+            app:layout_constraintTop_toBottomOf="@+id/helth25" />
 
         <TextView
             android:id="@+id/textView855"
@@ -98,7 +98,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.499"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth25" />
+            app:layout_constraintTop_toBottomOf="@+id/helth23" />
 
         <TextView
             android:id="@+id/textView853"
@@ -113,22 +113,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.499"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth23" />
-
-        <TextView
-            android:id="@+id/textView839"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="12dp"
-            android:text="Η γυναικολόγος- موئنث متخصص زنان"
-            android:textAlignment="center"
-            android:textColor="@color/blackStart"
-            android:textSize="24dp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.498"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth9" />
+            app:layout_constraintTop_toBottomOf="@+id/helth21" />
 
         <TextView
             android:id="@+id/textView834"
@@ -148,13 +133,14 @@
             android:id="@+id/textView831"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="64dp"
             android:text="Ο χειρουργός-دکتر جراح"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -163,9 +149,10 @@
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
+            android:textColor="#013E1A"
             android:textSize="17sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
@@ -179,7 +166,7 @@
             android:layout_marginTop="20dp"
             android:text="Ο παθολόγος-پزشک عمومی"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
@@ -191,11 +178,12 @@
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView31" />
@@ -207,7 +195,7 @@
             android:layout_marginTop="20dp"
             android:text="Ο ψυχολόγος-روان شناس"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
@@ -219,11 +207,12 @@
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView832" />
@@ -235,7 +224,7 @@
             android:layout_marginTop="20dp"
             android:text="Ο ψυχίατρος-روان پزشک"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
@@ -247,11 +236,12 @@
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView833" />
@@ -261,7 +251,7 @@
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
@@ -277,7 +267,7 @@
             android:layout_marginTop="20dp"
             android:text="Ο παιδίατρος-دکتراطفال"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
@@ -289,11 +279,12 @@
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView835" />
@@ -305,7 +296,7 @@
             android:layout_marginTop="20dp"
             android:text="Ο αιματολόγος-متخصص خون"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
@@ -317,11 +308,12 @@
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView836" />
@@ -333,7 +325,7 @@
             android:layout_marginTop="20dp"
             android:text="Ο ουρολόγος-متخصص ادرار"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
@@ -345,11 +337,12 @@
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView837" />
@@ -361,7 +354,7 @@
             android:layout_marginTop="20dp"
             android:text="Ο γυναικολόγος-مذکر متخصص زنان"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
@@ -373,28 +366,15 @@
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView838" />
-
-        <Button
-            android:id="@+id/helth10"
-            android:layout_width="65dp"
-            android:layout_height="65dp"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
-            android:text="گوش بده"
-            android:textAlignment="center"
-            android:textSize="17sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView839" />
 
         <TextView
             android:id="@+id/textView840"
@@ -403,23 +383,24 @@
             android:layout_marginTop="20dp"
             android:text="Ο οφθαλμίατρος-چشم پزشک"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth10" />
+            app:layout_constraintTop_toBottomOf="@+id/helth9" />
 
         <Button
-            android:id="@+id/helth11"
+            android:id="@+id/helth10"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView840" />
@@ -431,23 +412,24 @@
             android:layout_marginTop="20dp"
             android:text="Ο οδοντίατρος-داکتر دندان"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth11" />
+            app:layout_constraintTop_toBottomOf="@+id/helth10" />
 
         <Button
-            android:id="@+id/helth12"
+            android:id="@+id/helth11"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView841" />
@@ -459,23 +441,24 @@
             android:layout_marginTop="20dp"
             android:text="Ο καρδιολόγος-متخصص قلب"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth12" />
+            app:layout_constraintTop_toBottomOf="@+id/helth11" />
 
         <Button
-            android:id="@+id/helth13"
+            android:id="@+id/helth12"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView842" />
@@ -487,23 +470,24 @@
             android:layout_marginTop="20dp"
             android:text="Ο Γαστρεντερολόγος-متخصص لوزالمعده"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth13" />
+            app:layout_constraintTop_toBottomOf="@+id/helth12" />
 
         <Button
-            android:id="@+id/helth14"
+            android:id="@+id/helth13"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView843" />
@@ -515,23 +499,24 @@
             android:layout_marginTop="20dp"
             android:text="Ο ορθοπεδικός-دکتر ارتوپد دکتر استخوان"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth14" />
+            app:layout_constraintTop_toBottomOf="@+id/helth13" />
 
         <Button
-            android:id="@+id/helth15"
+            android:id="@+id/helth14"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView844" />
@@ -543,7 +528,36 @@
             android:layout_marginTop="20dp"
             android:text="Ο δερματολόγος-متخصص پوست"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/helth14" />
+
+        <Button
+            android:id="@+id/helth15"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/helth_button"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#013E1A"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView845" />
+
+        <TextView
+            android:id="@+id/textView847"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Το νοσοκομείο-بیمارستان"
+            android:textAlignment="center"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
@@ -555,67 +569,12 @@
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView845" />
-
-        <TextView
-            android:id="@+id/textView846"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:text="Ο πνευμονολόγος-متخصص رییه"
-            android:textAlignment="center"
-            android:textColor="@color/blackStart"
-            android:textSize="24dp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth16" />
-
-        <Button
-            android:id="@+id/helth17"
-            android:layout_width="65dp"
-            android:layout_height="65dp"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
-            android:text="گوش بده"
-            android:textAlignment="center"
-            android:textSize="17sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView846" />
-
-        <TextView
-            android:id="@+id/textView847"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:text="Το νοσοκομείο-بیمارستان"
-            android:textAlignment="center"
-            android:textColor="@color/blackStart"
-            android:textSize="24dp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth17" />
-
-        <Button
-            android:id="@+id/helth18"
-            android:layout_width="65dp"
-            android:layout_height="65dp"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
-            android:text="گوش بده"
-            android:textAlignment="center"
-            android:textSize="17sp"
-            android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView847" />
@@ -627,23 +586,24 @@
             android:layout_marginTop="20dp"
             android:text="Ο πόνος-درد"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth18" />
+            app:layout_constraintTop_toBottomOf="@+id/helth16" />
 
         <Button
-            android:id="@+id/helth19"
+            android:id="@+id/helth17"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView848" />
@@ -655,23 +615,24 @@
             android:layout_marginTop="20dp"
             android:text="Η αιμορραγία-خونریزی"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth19" />
+            app:layout_constraintTop_toBottomOf="@+id/helth17" />
 
         <Button
-            android:id="@+id/helth20"
+            android:id="@+id/helth18"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView849" />
@@ -683,23 +644,24 @@
             android:layout_marginTop="20dp"
             android:text="εμετός-استفراق"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth20" />
+            app:layout_constraintTop_toBottomOf="@+id/helth18" />
 
         <Button
-            android:id="@+id/helth21"
+            android:id="@+id/helth19"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView850" />
@@ -711,23 +673,24 @@
             android:layout_marginTop="20dp"
             android:text="Η καρδιακή προσβολή-حمله قلبی"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth21" />
+            app:layout_constraintTop_toBottomOf="@+id/helth19" />
 
         <Button
-            android:id="@+id/helth22"
+            android:id="@+id/helth20"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView851" />
@@ -739,37 +702,39 @@
             android:layout_marginTop="5dp"
             android:text="Ο νοσηλευτής-پرستار.مذکر"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth22" />
+            app:layout_constraintTop_toBottomOf="@+id/helth20" />
 
         <Button
-            android:id="@+id/helth23"
+            android:id="@+id/helth21"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView852" />
 
         <Button
-            android:id="@+id/helth24"
+            android:id="@+id/helth22"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView853" />
@@ -781,38 +746,40 @@
             android:layout_marginTop="12dp"
             android:text="Ο νοσοκόμος = پرستار.مذکر"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth24" />
+            app:layout_constraintTop_toBottomOf="@+id/helth22" />
 
         <Button
-            android:id="@+id/helth25"
+            android:id="@+id/helth23"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView854" />
 
         <Button
-            android:id="@+id/helth26"
+            android:id="@+id/helth24"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView855" />
@@ -824,38 +791,40 @@
             android:layout_marginTop="20dp"
             android:text=" Η εσωτερική αιμορραγία-خونریزی داخیلی"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.499"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth26" />
+            app:layout_constraintTop_toBottomOf="@+id/helth24" />
 
         <Button
-            android:id="@+id/helth27"
+            android:id="@+id/helth25"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView856" />
 
         <Button
-            android:id="@+id/helth28"
+            android:id="@+id/helth26"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView857" />
@@ -867,51 +836,54 @@
             android:layout_marginTop="20dp"
             android:text="Η διάρροια-اسهال"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth28" />
+            app:layout_constraintTop_toBottomOf="@+id/helth26" />
+
+        <Button
+            android:id="@+id/helth27"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/helth_button"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#013E1A"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView858" />
+
+        <Button
+            android:id="@+id/helth28"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/helth_button"
+            android:text="گوش بده"
+            android:textAlignment="center"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#013E1A"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView859" />
 
         <Button
             android:id="@+id/helth29"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView858" />
-
-        <Button
-            android:id="@+id/helth30"
-            android:layout_width="65dp"
-            android:layout_height="65dp"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
-            android:text="گوش بده"
-            android:textAlignment="center"
-            android:textSize="17sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView859" />
-
-        <Button
-            android:id="@+id/helth31"
-            android:layout_width="65dp"
-            android:layout_height="65dp"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
-            android:text="گوش بده"
-            android:textAlignment="center"
-            android:textSize="17sp"
-            android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView860" />
@@ -923,23 +895,25 @@
             android:layout_marginTop="20dp"
             android:text="Η υψηλή πίεση-فشار بالا"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.501"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth31" />
+            app:layout_constraintTop_toBottomOf="@+id/helth29" />
 
         <Button
-            android:id="@+id/helth32"
+            android:id="@+id/helth30"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView861" />
@@ -951,23 +925,24 @@
             android:layout_marginTop="20dp"
             android:text="Η χαμηλή πίεση-فشار پائین"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth32" />
+            app:layout_constraintTop_toBottomOf="@+id/helth30" />
 
         <Button
-            android:id="@+id/helth33"
+            android:id="@+id/helth31"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView862" />
@@ -976,68 +951,43 @@
             android:id="@+id/textView863"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:text="ο καρδιολογικό-بخش قلب"
+            android:layout_marginTop="12dp"
+            android:text="το καρδιολογικό-بخش قلب"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth33" />
+            app:layout_constraintTop_toBottomOf="@+id/helth31" />
 
         <Button
-            android:id="@+id/helth34"
+            android:id="@+id/helth32"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView863" />
 
-        <TextView
-            android:id="@+id/textView823"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:text="ο καρδιολογικό - بخش قلب"
-            android:textAlignment="center"
-            android:textColor="@color/blackStart"
-            android:textSize="24dp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth34" />
-
         <Button
-            android:id="@+id/helth35"
+            android:id="@+id/helth33"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView823" />
-
-        <Button
-            android:id="@+id/helth36"
-            android:layout_width="65dp"
-            android:layout_height="65dp"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
-            android:text="گوش بده"
-            android:textAlignment="center"
-            android:textSize="17sp"
-            android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView830" />
@@ -1049,23 +999,24 @@
             android:layout_marginTop="20dp"
             android:text="Το γυναικολογικό-بخش زنان"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth36" />
+            app:layout_constraintTop_toBottomOf="@+id/helth33" />
 
         <Button
-            android:id="@+id/helth37"
+            android:id="@+id/helth34"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView864" />
@@ -1077,23 +1028,24 @@
             android:layout_marginTop="20dp"
             android:text="Το Παιδιατρικό-بخش اطفال"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth37" />
+            app:layout_constraintTop_toBottomOf="@+id/helth34" />
 
         <Button
-            android:id="@+id/helth38"
+            android:id="@+id/helth35"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView865" />
@@ -1105,37 +1057,39 @@
             android:layout_marginTop="20dp"
             android:text="Το μαιευτικό-بخش مامایی"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth38" />
+            app:layout_constraintTop_toBottomOf="@+id/helth35" />
 
         <Button
-            android:id="@+id/helth39"
+            android:id="@+id/helth36"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView866" />
 
         <Button
-            android:id="@+id/helth40"
+            android:id="@+id/helth37"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView867" />
@@ -1146,24 +1100,25 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             android:text="Το ακτινολογικό-بخش اکتینولوژی"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth40" />
+            app:layout_constraintTop_toBottomOf="@+id/helth37" />
 
         <Button
-            android:id="@+id/helth41"
+            android:id="@+id/helth38"
             android:layout_width="65dp"
             android:layout_height="65dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView868" />
@@ -1174,70 +1129,65 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:textAlignment="center"
-            android:textColor="@color/blackStart"
+            android:textColor="@color/greenBackground"
             android:textSize="24dp"
             android:textStyle="bold"
             android:text="Το χειρουργείο- بخش جراحی"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth41" />
+            app:layout_constraintTop_toBottomOf="@+id/helth38" />
 
         <Button
-            android:id="@+id/helth42"
+            android:id="@+id/helth39"
             android:layout_width="65dp"
             android:layout_height="65dp"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/helth_button"
             android:text="گوش بده"
             android:textAlignment="center"
             android:textSize="17sp"
             android:textStyle="bold"
+            android:textColor="#013E1A"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView869" />
-
-        <TextView
-            android:id="@+id/textView870"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:text="Το ακτινολογικό-بخش اکتینولوژی"
-            android:textAlignment="center"
-            android:textColor="@color/blackStart"
-            android:textSize="24dp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth42" />
 
         <Button
             android:id="@+id/helth44"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginTop="30dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="16dp"
             android:background="@drawable/continue_button_backround"
             android:text="برگشت"
             android:textAlignment="center"
+            android:textColor="#013E1A"
             android:textSize="22sp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/toup"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/helth43" />
+            app:layout_constraintTop_toBottomOf="@+id/helth39" />
 
         <Button
-            android:id="@+id/helth43"
-            android:layout_width="65dp"
-            android:layout_height="65dp"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/button_heard"
-            android:text="گوش بده"
+            android:id="@+id/toup"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/continue_button_backround"
+            android:text="بروبالا"
             android:textAlignment="center"
+            android:textColor="#013E1A"
             android:textSize="17sp"
             android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView870" />
+            app:layout_constraintStart_toEndOf="@+id/helth44"
+            app:layout_constraintTop_toBottomOf="@+id/helth39"
+            app:layout_constraintVertical_bias="0.247" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

@@ -55,7 +55,7 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/dictionary_background"
             android:text="@string/button19"
-            android:textSize="18sp"
+            android:textSize="16sp"
             android:textStyle="bold"
             android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button50"
