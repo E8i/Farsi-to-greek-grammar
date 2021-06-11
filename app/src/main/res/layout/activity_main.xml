@@ -9,8 +9,8 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/constraintLayout"
-        android:layout_width="338dp"
-        android:layout_height="430dp"
+        android:layout_width="339dp"
+        android:layout_height="467dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -25,10 +25,10 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/instagrambutton"
             android:text="اینستاگرام"
+            android:textAlignment="center"
             android:textColor="@color/design_default_color_background"
             android:textSize="18dp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/facebookpage"
             app:layout_constraintTop_toBottomOf="@+id/button13" />
 
@@ -40,10 +40,10 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/facebookbutton"
             android:text="@string/buttonface"
-            android:textSize="18sp"
-            android:textStyle="bold"
             android:textAlignment="center"
             android:textColor="@color/design_default_color_surface"
+            android:textSize="18sp"
+            android:textStyle="bold"
             app:layout_constraintStart_toEndOf="@+id/button19"
             app:layout_constraintTop_toBottomOf="@+id/button14" />
 
@@ -55,9 +55,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/dictionary_background"
             android:text="@string/button19"
+            android:textAlignment="center"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button50"
             app:layout_constraintTop_toBottomOf="@+id/button15" />
 
@@ -68,9 +68,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/continue_button_backround"
             android:text="@string/button20"
+            android:textAlignment="center"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/button16" />
 
@@ -82,9 +82,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button13"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button14"
             app:layout_constraintTop_toBottomOf="@+id/button9" />
 
@@ -96,9 +96,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button14"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button15"
             app:layout_constraintTop_toBottomOf="@+id/button10" />
 
@@ -110,9 +110,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button15"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button16"
             app:layout_constraintTop_toBottomOf="@+id/button11" />
 
@@ -123,9 +123,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button16"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/button12" />
 
@@ -137,9 +137,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button9"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button10"
             app:layout_constraintTop_toBottomOf="@+id/button5" />
 
@@ -151,9 +151,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button10"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button11"
             app:layout_constraintTop_toBottomOf="@+id/button6" />
 
@@ -165,9 +165,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button11"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button12"
             app:layout_constraintTop_toBottomOf="@+id/button7" />
 
@@ -178,9 +178,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button12"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/button8" />
 
@@ -192,9 +192,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button5"
+            android:textAlignment="center"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button6"
             app:layout_constraintTop_toBottomOf="@+id/button1" />
 
@@ -206,9 +206,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button6"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button7"
             app:layout_constraintTop_toBottomOf="@+id/button2" />
 
@@ -220,9 +220,9 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button7"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button8"
             app:layout_constraintTop_toBottomOf="@+id/button3" />
 
@@ -233,9 +233,9 @@
             android:layout_marginTop="8dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button8"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/button4" />
 
@@ -246,10 +246,10 @@
             android:layout_marginStart="10dp"
             android:background="@drawable/button_bakground"
             android:text="می خوام"
+            android:textAlignment="center"
             android:textColor="#060606"
             android:textSize="17sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button2"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -260,9 +260,9 @@
             android:layout_marginStart="10dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button2"
+            android:textAlignment="center"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button3"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -273,9 +273,9 @@
             android:layout_marginStart="8dp"
             android:background="@drawable/button_bakground"
             android:text="@string/button3"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toEndOf="@+id/button4"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -285,10 +285,10 @@
             android:layout_height="75dp"
             android:background="@drawable/grammar_background"
             android:text="@string/button4"
+            android:textAlignment="center"
             android:textColor="#100F0F"
             android:textSize="25sp"
             android:textStyle="bold"
-            android:textAlignment="center"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
