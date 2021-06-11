@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:padding="48sp"
         android:background="@drawable/activity_background"
-        tools:context=".MainActivity53">
+        tools:context="farsitogreek.example.farsi_to_greek_grammar.MainActivity53">
 
         <TextView
             android:id="@+id/textView650"

@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:padding="48sp"
         android:background="@drawable/activity_background"
-        tools:context=".MainActivity44">
+        tools:context="farsitogreek.example.farsi_to_greek_grammar.MainActivity44">
 
         <Button
             android:id="@+id/button93"

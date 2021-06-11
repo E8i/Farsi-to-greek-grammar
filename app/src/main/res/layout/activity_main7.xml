@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:padding="48sp"
         android:background="@drawable/activity_background"
-        tools:context=".MainActivity7">
+        tools:context="farsitogreek.example.farsi_to_greek_grammar.MainActivity7">
 
         <Button
             android:id="@+id/vlepo4"

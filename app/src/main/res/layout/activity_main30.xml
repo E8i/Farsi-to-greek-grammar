@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/activity_background"
-    tools:context=".MainActivity30">
+    tools:context="farsitogreek.example.farsi_to_greek_grammar.MainActivity30">
 
     <TextView
         android:id="@+id/activity_main_hyperlink"

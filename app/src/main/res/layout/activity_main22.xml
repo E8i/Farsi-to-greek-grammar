@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="40dp"
-        tools:context=".MainActivity22">
+        tools:context="farsitogreek.example.farsi_to_greek_grammar.MainActivity22">
 
         <TextView
             android:id="@+id/textView330"

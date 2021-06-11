@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:padding="40dp"
         android:background="@drawable/activity_background"
-        tools:context=".MainActivity2">
+        tools:context="farsitogreek.example.farsi_to_greek_grammar.MainActivity2">
 
         <TextView
             android:id="@+id/textView2"
