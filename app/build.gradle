@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.example.farsi_to_greek_grammar"
+        applicationId "farsitogreek.farsi_to_greek_grammar"
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 1
