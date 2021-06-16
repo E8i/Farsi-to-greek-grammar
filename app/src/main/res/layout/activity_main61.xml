@@ -7,59 +7,18 @@
     android:background="@drawable/activity_background"
     tools:context="farsitogreek.example.farsi_to_greek_grammar.MainActivity61">
 
+
     <TextView
-        android:id="@+id/activity_main_hyperlink"
+        android:id="@+id/textView90"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
-        android:text="@string/hyperlink_youtub"
-        android:textSize="24dp"
-        android:textColor="@color/blackStart"
-        android:textAlignment="center"
+        android:text="coming soon update"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/buttonb"
-        android:layout_width="75dp"
-        android:layout_height="75dp"
-        android:layout_marginEnd="10dp"
-        android:layout_marginBottom="50dp"
-        android:background="@drawable/continue_button_backround"
-        android:text="برگشت"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/buttonk" />
-
-    <Button
-        android:id="@+id/buttonk"
-        android:layout_width="75dp"
-        android:layout_height="75dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginBottom="50dp"
-        android:background="@drawable/home_button"
-        android:text="خانه"
-        android:textAlignment="center"
-        android:textSize="22sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/buttonb"
-        app:layout_constraintHorizontal_bias="0.2"
-        app:layout_constraintStart_toStartOf="parent" />
-
-    <TextView
-        android:id="@+id/textView825"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
-        android:text="@string/hyperlink_youtub2"
-        android:textSize="24dp"
-        android:textColor="@color/blackStart"
-        android:textAlignment="center"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/activity_main_hyperlink" />
 </androidx.constraintlayout.widget.ConstraintLayout>

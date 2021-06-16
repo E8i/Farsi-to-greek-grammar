@@ -15,15 +15,11 @@ public class MainActivity29 extends AppCompatActivity {
 
     private Button book1,book2;
 
-    TextView textView826;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main29);
-
-        textView826 = findViewById(R.id.textView826);
-        textView826.setMovementMethod(LinkMovementMethod.getInstance());
 
         book1=findViewById(R.id.book1);
         book1.setOnClickListener(new View.OnClickListener() {

@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="150dp"
-        android:text="@string/hyperlink_book2"
+        android:text="coming the next update"
         android:textAlignment="center"
         android:textSize="21dp"
         android:textStyle="bold"

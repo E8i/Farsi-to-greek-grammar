@@ -14,15 +14,13 @@ import com.example.farsi_to_greek_grammar.R;
 public class MainActivity30 extends AppCompatActivity {
     private Button b115,button;
 
-    TextView linkTextView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main30);
 
-        linkTextView = findViewById(R.id.activity_main_hyperlink);
-        linkTextView.setMovementMethod(LinkMovementMethod.getInstance());
 
         b115=findViewById(R.id.button115);
         b115.setOnClickListener(new View.OnClickListener() {
